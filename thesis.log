@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  8 SEP 2025 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  8 SEP 2025 14:23
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./thesis.tex
-(thesis.tex
+**"c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex"
+(c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (cspcccsthesis.cls
@@ -25,39 +26,29 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -72,9 +63,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks18
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip50
 \RaggedLeftLeftskip=\skip51
@@ -90,8 +79,7 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip61
 \RaggedRightParindent=\skip62
 \JustifyingParindent=\skip63
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count199
 \mult@box=\box51
@@ -160,14 +148,11 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
 \mc@col@check@num=\count274
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box97
 \beforetitleunit=\skip66
@@ -178,8 +163,7 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen162
 \titlewidthlast=\dimen163
 \titlewidthfirst=\dimen164
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip68
@@ -218,13 +202,12 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip99
 \cfttabindent=\skip100
 \cfttabnumwidth=\skip101
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count277
 ) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count278
@@ -232,14 +215,12 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip103
 \rot@float@box=\box98
 \rot@mess@toks=\toks20
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count279
 \c@@ppsavesec=\count280
 \c@@ppsaveapp=\count281
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
 \UL@box=\box99
 \UL@hyphenbox=\box100
 \UL@skip=\skip104
@@ -250,12 +231,10 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \ULC@box=\box101
 Package: ulem 2019/11/18
 \ULdepth=\dimen167
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
 Package: siunitx 2025-04-19 v3.4.9 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count283
 \l__siunitx_number_exponent_fixed_int=\count284
@@ -271,26 +250,16 @@ Package: siunitx 2025-04-19 v3.4.9 A comprehensive (SI) units package
 \l__siunitx_angle_marker_box=\box102
 \l__siunitx_angle_unit_box=\box103
 \l__siunitx_compound_count_int=\count293
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
-ns.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
- (CN)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count294
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -298,8 +267,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen169
@@ -317,8 +285,7 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \l__siunitx_unit_tmp_int=\count295
 \l__siunitx_unit_position_int=\count296
 \l__siunitx_unit_total_int=\count297
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen174
 \ar@mcellbox=\box110
@@ -327,41 +294,27 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \extratabsurround=\skip105
 \backup@length=\skip106
 \ar@cellbox=\box111
-))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count298
@@ -393,14 +346,10 @@ Package hyperref Info: Bookmarks ON on input line 4448.
 \c@Hy@tempcnt=\count302
 LaTeX Info: Redefining \url on input line 4786.
 \XeTeXLinkMargin=\dimen177
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count303
 \Field@Width=\dimen178
@@ -412,8 +361,7 @@ Package hyperref Info: backreferencing OFF on input line 6080.
 Package hyperref Info: Link coloring OFF on input line 6085.
 Package hyperref Info: Link coloring with OCG OFF on input line 6090.
 Package hyperref Info: PDF/A mode OFF on input line 6095.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -422,41 +370,30 @@ package with kernel methods
 \c@Hfootnote=\count306
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count307
 \c@bookmark@seq@number=\count308
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip107
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
-File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
-)
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count309
 )) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen180
 \captionmargin=\dimen181
@@ -472,49 +409,39 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count311
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count312
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count313
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
-ies.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
 Package: glossaries 2025/04/14 v4.6 (NLCT)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks24
 \XKV@tempa@toks=\toks25
 )
 \XKV@depth=\count314
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
 \@glsmfirst=\toks26
 \@glsmrest=\toks27
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
-sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
 Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip108
+
 For additional information on amsmath, use the `?' option.
 (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen188
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count315
@@ -564,14 +491,9 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks31
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
-ex))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
-def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
 File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@toks=\toks32
@@ -579,9 +501,7 @@ File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 \dtl@tmplength=\skip111
 \l__datatool_measure_box=\box114
 \dtl@sortresult=\count328
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
-ldf
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
 File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@datatype=\count329
@@ -619,21 +539,14 @@ File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 \glslabeltok=\toks35
 \glsshorttok=\toks36
 \glslongtok=\toks37
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-hypernav.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
 Package: glossary-hypernav 2025/04/14 v4.6 (NLCT)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-list.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
 Package: glossary-list 2025/04/14 v4.6 (NLCT)
 \glslistdottedwidth=\skip113
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-long.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
 Package: glossary-long 2025/04/14 v4.6 (NLCT)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTleft=\skip114
 \LTright=\skip115
@@ -654,13 +567,9 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 )
 \glsdescwidth=\skip118
 \glspagelistwidth=\skip119
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-super.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
 Package: glossary-super 2025/04/14 v4.6 (NLCT)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
-ar.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \c@tracingst=\count358
 \ST@wd=\dimen257
@@ -677,9 +586,7 @@ Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \ST@toadd=\dimen265
 \ST@dimen=\dimen266
 \ST@pbox=\box120
-))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-tree.sty
+)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2025/04/14 v4.6 (NLCT)
 \l__glossaries_tree_max_known_level_int=\count359
 \l__glossaries_tree_offset_dim=\dimen267
@@ -693,13 +600,10 @@ Package: glossary-tree 2025/04/14 v4.6 (NLCT)
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen275
 \l__glossaries_tree_level_int=\count360
 \glstreeindent=\skip123
-))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/doi\doi.sty
+)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/doi\doi.sty
 Package: doi 2018/09/09 handle doi numbers
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip124
 \f@nch@offset@elh=\skip125
 \f@nch@offset@erh=\skip126
@@ -715,36 +619,26 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip136
 \f@nch@widthR=\skip137
 \@temptokenb=\toks39
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authblk.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip138
 \@affilsep=\skip139
 \c@Maxaffil=\count361
 \c@authors=\count362
 \c@affil=\count363
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2025/01/27 v2.1e lastpage: 2.09 or 2e? (HMM)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
-Package: lastpage2e 2025/01/27 v2.1e Decide which 2e lastpage version to use (H
-MM)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpageclassi
-c.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/01/27 v2.1e Decide which 2e lastpage version to use (HMM)
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpageclassic.sty
 Package: lastpageclassic 2025/01/27 v2.1e Refers to last page's name (HMM; JPG)
-
 ) 
-))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count364
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 \c@tabx@nest=\count365
@@ -806,8 +700,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \c@mincompwidth=\count410
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -898,8 +791,7 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip161
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
@@ -922,11 +814,9 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
 File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'acmnumeric'...
 Package biblatex Info: ... file 'acmnumeric.bbx' found.
@@ -934,32 +824,23 @@ Package biblatex Info: ... file 'acmnumeric.bbx' found.
 File: acmnumeric.bbx 2017-09-27 v0.1 biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'trad-plain'...
 Package biblatex Info: ... file 'trad-plain.bbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-plai
-n.bbx
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-plain.bbx
 File: trad-plain.bbx 2021/03/06 v0.5 biblatex-trad plain bibliography style
 Package biblatex Info: Trying to load bibliography style 'trad-standard'...
 Package biblatex Info: ... file 'trad-standard.bbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-stan
-dard.bbx
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\trad-standard.bbx
 File: trad-standard.bbx 2021/03/06 v0.5 biblatex-trad base bibliography style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
-bx
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count488
 \c@bbx:relatedtotal=\count489
 )))
 Package biblatex Info: Trying to load biblatex style for software...
 Package biblatex Info: ... file 'software.bbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-software\softw
-are.bbx
-File: software.bbx 2022/08/01 bibliography driver extension for software entrie
-s, Roberto Di Cosmo
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-software\software.bbx
+File: software.bbx 2022/08/01 bibliography driver extension for software entries, Roberto Di Cosmo
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 
@@ -971,9 +852,7 @@ Package biblatex Info: ... file 'acmnumeric.cbx' found.
 File: acmnumeric.cbx 2017-09-27 v0.1
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
-x
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
 File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -989,18 +868,14 @@ Package biblatex Info: Redefining '\smartcites'.
 ))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-01-04 L3 programming layer (loader) 
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count490
 \l__pdf_internal_box=\box121
@@ -1009,39 +884,28 @@ Package biblatex Info: ... and expl3
 (biblatex)             2024-01-04 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
-.sty
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+)) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count491
 \float@exts=\toks40
 \float@box=\box122
 \@float@everytoks=\toks41
 \@floatcapt=\box123
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
--ends (calc, etex, pgfmath)
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
-ty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box124
 )
@@ -1050,8 +914,7 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@urx=\dimen278
 \tc@ury=\dimen279
 Package trimclip Info: Using driver 'tc-pdftex.def'.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen280
@@ -1062,8 +925,7 @@ File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 \adjbox@pheight=\dimen285
 \adjbox@pdepth=\dimen286
 \adjbox@ptotalheight=\dimen287
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box125
 \sift@deathcycles=\count492
@@ -1101,36 +963,21 @@ Package glossaries Info: Writing glossary file thesis.glo on input line 90.
 Package glossaries Info: Writing glossary file thesis.acn on input line 90.
 Package hyperref Info: Option `colorlinks' set `true' on input line 100.
 ) (settings/glossary.tex)
-Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 26.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 26.
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-)
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 \@quotelevel=\count493
 \@quotereset=\count494
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-6.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 26.
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(thesis.aux
-
-LaTeX Warning: Label `fig:firstFig' multiply defined.
-
-
-LaTeX Warning: Label `fig:firstFig' multiply defined.
-
-
-LaTeX Warning: Label `fig:firstFig' multiply defined.
-
-)
+No file thesis.aux.
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -1151,9 +998,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count495
 \scratchdimen=\dimen290
@@ -1166,15 +1011,10 @@ ii
 \MPnumerator=\count499
 \makeMPintoPDFobject=\count500
 \everyMPtoPDFconversion=\toks43
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -1211,56 +1051,39 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
-slations-basic-dictionary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `tra
-nslations-basic-dictionary')
+(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 26.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 26.
 Package hyperref Info: Link coloring ON on input line 26.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.l
-bx
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
 File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'english' -> 'english-software'.
-..
+Package biblatex Info: Trying to load language 'english' -> 'english-software'...
 Package biblatex Info: ... file 'english-software.lbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-software\engli
-sh-software.lbx
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-software\english-software.lbx
 File: english-software.lbx 2022/08/01 english with additions for software
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
-x
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))
-Package biblatex Info: Trying to load language 'english' -> 'english-software'.
-..
+Package biblatex Info: Trying to load language 'english' -> 'english-software'...
 Package biblatex Info: ... file 'english-software.lbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-software\engli
-sh-software.lbx
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-software\english-software.lbx
 File: english-software.lbx 2022/08/01 english with additions for software
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
-x
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1273,19 +1096,30 @@ Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
- (approvalPage.tex
+
+
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:28: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \makeTitlePage{May}{2025}
+                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(approvalPage.tex
 <settings/CSPC-WEBSITEV2_3.png, id=3, 521.95pt x 142.5325pt>
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 3.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-<settings/Proposed Logo - College of Computer Studies (CSPC)-07.png, id=5, 1246
-.8984pt x 360.74776pt>
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+<settings/Proposed Logo - College of Computer Studies (CSPC)-07.png, id=5, 1246.8984pt x 360.74776pt>
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 3.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 3.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1300,16 +1134,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 \openout4 = `thesis.ist'.
 
 
-{C:/Users/admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/admi
-n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./settings/CSPC-W
-EBSITEV2_3.png> <./settings/Proposed Logo - College of Computer Studies (CSPC)-
-07.png>]
-Overfull \hbox (5.97963pt too wide) in paragraph at lines 3--3
-\OT1/ptm/b/n/12 SECTE-TUR ADIP-ISC-ING ELIT NUNC SCELERISQUE HEN-DRERIT FRINGIL
-LA
- []
-
-
+{C:/Users/admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./settings/CSPC-WEBSITEV2_3.png> <./settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
 
  []
@@ -1319,11 +1144,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 32.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 32.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 32.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1340,11 +1163,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 33.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 33.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 33.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1361,11 +1182,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 2.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1382,11 +1201,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 35.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 35.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 35.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1419,6 +1236,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
  []
 
 
+LaTeX Warning: Reference `LastPage' on page v undefined on input line 35.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
 
  []
@@ -1435,19 +1260,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
 
 
 Overfull \hbox (3.73883pt too wide) in paragraph at lines 35--35
-[]\OT1/ptm/m/n/12 Lorem ip-sum do-lor sit amet, con-secte-tur adip-isc-ing elit
-. Nunc scelerisque hen-drerit fringilla.
+[]\OT1/ptm/m/n/12 Lorem ip-sum do-lor sit amet, con-secte-tur adip-isc-ing elit. Nunc scelerisque hen-drerit fringilla.
  []
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 36.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 36.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 36.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1458,18 +1280,19 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [5
 
-] (thesis.toc
+]
+No file thesis.toc.
+\tf@toc=\write7
+\openout7 = `thesis.toc'.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 37.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 36.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 37.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 36.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -1479,29 +1302,8 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [6
 
-])
-\tf@toc=\write7
-\openout7 = `thesis.toc'.
-
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 36.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 36.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 41.39021pt, for example:
-(fancyhdr)                \setlength{\headheight}{41.39021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
-
-[7] (thesis.lot)
+]
+No file thesis.lot.
 \tf@lot=\write8
 \openout8 = `thesis.lot'.
 
@@ -1509,13 +1311,33 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 37.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 37.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 37.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[7
+
+
+]
+No file thesis.lof.
+\tf@lof=\write9
+\openout9 = `thesis.lof'.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 38.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 38.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -1526,51 +1348,33 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [8
 
 
-] (thesis.lof)
-\tf@lof=\write9
-\openout9 = `thesis.lof'.
-
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 38.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 38.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[9
-
-
 ] (chapters/chapter1.tex
 Chapter 1.
 \blx@maxsegment@1=\count501
 \blx@sectionciteorder@1=\count502
 Package biblatex Info: Reference section=1 on input line 2.
 Package biblatex Info: Setting label 'refsection:1' on input line 2.
-<figures/sampleFig1.jpg, id=134, 823.075pt x 469.755pt>
+
+LaTeX Warning: Reference `fig:firstFig' on page 1 undefined on input line 5.
+
+<figures/sampleFig1.jpg, id=58, 823.075pt x 469.755pt>
 File: figures/sampleFig1.jpg Graphic file (type jpg)
 <use figures/sampleFig1.jpg>
 Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 15.
 (pdftex.def)             Requested size: 368.57965pt x 210.35562pt.
+
+LaTeX Warning: Reference `fig:firstFig' on page 1 undefined on input line 20.
+
+
+LaTeX Warning: Reference `tbl:sampleTbl1' on page 1 undefined on input line 22.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 23.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1588,11 +1392,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 67.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 67.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 67.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1603,12 +1405,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [2]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
-2.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 72.
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<figures/imageA.png, id=167, 320.69812pt x 329.73187pt>
+<figures/imageA.png, id=98, 320.69812pt x 329.73187pt>
 File: figures/imageA.png Graphic file (type png)
 <use figures/imageA.png>
 Package pdftex.def Info: figures/imageA.png  used on input line 84.
@@ -1618,7 +1419,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 84--85
  [][] 
  []
 
-<figures/imageB.png, id=168, 282.30469pt x 274.02374pt>
+<figures/imageB.png, id=99, 282.30469pt x 274.02374pt>
 File: figures/imageB.png Graphic file (type png)
 <use figures/imageB.png>
 Package pdftex.def Info: figures/imageB.png  used on input line 91.
@@ -1628,7 +1429,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 91--92
  [][] 
  []
 
-<figures/imageC.png, id=169, 283.81032pt x 293.59688pt>
+<figures/imageC.png, id=100, 283.81032pt x 293.59688pt>
 File: figures/imageC.png Graphic file (type png)
 <use figures/imageC.png>
 Package pdftex.def Info: figures/imageC.png  used on input line 101.
@@ -1638,7 +1439,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 101--102
  [][] 
  []
 
-<figures/imageD.png, id=170, 274.02374pt x 277.035pt>
+<figures/imageD.png, id=101, 274.02374pt x 277.035pt>
 File: figures/imageD.png Graphic file (type png)
 <use figures/imageD.png>
 Package pdftex.def Info: figures/imageD.png  used on input line 108.
@@ -1651,13 +1452,10 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 108--109
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 116.
-
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 116.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 116.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1667,18 +1465,20 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [3]
+
+LaTeX Warning: Reference `fig:subsubfigwithlabel' on page 4 undefined on input line 118.
+
+
+LaTeX Warning: Reference `fig:firstFig:d' on page 4 undefined on input line 118.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 124.
-
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 124.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 124.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -1686,12 +1486,9 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[4 <./figures/imageA.png> <./figures/imageB.png> <./figures/imageC.png> <./figu
-res/imageD.png>]
+[4 <./figures/imageA.png> <./figures/imageB.png> <./figures/imageC.png> <./figures/imageD.png>]
 Overfull \hbox (1.89914pt too wide) in paragraph at lines 126--126
-\OT1/ptm/m/n/10 Lessons from na-ture about so-lar light har-vest-ing. \OT1/ptm/
-m/it/10 Na-ture chem-istry\OT1/ptm/m/n/10 , 3, 10, 763. doi:[][]10.1038/nchem.1
-145[][]. 
+\OT1/ptm/m/n/10 Lessons from na-ture about so-lar light har-vest-ing. \OT1/ptm/m/it/10 Na-ture chem-istry\OT1/ptm/m/n/10 , 3, 10, 763. doi:[][]10.1038/nchem.1145[][]. 
  []
 
 Package biblatex Info: Reference section=0 on input line 127.
@@ -1700,11 +1497,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 2.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1722,15 +1517,16 @@ Chapter 2.
 \blx@sectionciteorder@2=\count504
 Package biblatex Info: Reference section=2 on input line 3.
 Package biblatex Info: Setting label 'refsection:2' on input line 3.
+
+LaTeX Warning: Reference `fig:secondFig' on page 6 undefined on input line 5.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 28.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 28.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 28.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1742,7 +1538,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [6
 
 ]
-<figures/sampleFig2.png, id=203, 792.9625pt x 434.62375pt>
+<figures/sampleFig2.png, id=138, 792.9625pt x 434.62375pt>
 File: figures/sampleFig2.png Graphic file (type png)
 <use figures/sampleFig2.png>
 Package pdftex.def Info: figures/sampleFig2.png  used on input line 31.
@@ -1751,11 +1547,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 35.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 35.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 35.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1774,11 +1568,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 48.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 48.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 48.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1798,11 +1590,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 2.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1828,11 +1618,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 15.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 15.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 15.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1862,11 +1650,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 19.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 19.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 19.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1897,11 +1683,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 17.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 17.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 17.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1930,8 +1714,7 @@ Package biblatex Warning: Split bibliography detected.
 
 
 Overfull \hbox (0.29712pt too wide) in paragraph at lines 47--47
-[]\OT1/ptm/m/n/10 Milton Abramowitz and Irene A. Ste-gun. 1964. \OT1/ptm/m/it/1
-0 Hand-book of Math-e-mat-i-cal Func-tions with For-mu-las, Graphs,
+[]\OT1/ptm/m/n/10 Milton Abramowitz and Irene A. Ste-gun. 1964. \OT1/ptm/m/it/10 Hand-book of Math-e-mat-i-cal Func-tions with For-mu-las, Graphs,
  []
 
 
@@ -2008,11 +1791,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 4.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 4.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 4.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2031,11 +1812,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 6.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 6.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 6.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2054,11 +1833,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 23.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2075,11 +1852,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 36.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 36.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 36.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2096,11 +1871,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 53.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 53.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 53.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2112,7 +1885,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [17
 
 ]) (vita.tex
-<figures/person-icon.png, id=269, 72.27pt x 72.27pt>
+<figures/person-icon.png, id=217, 72.27pt x 72.27pt>
 File: figures/person-icon.png Graphic file (type png)
 <use figures/person-icon.png>
 Package pdftex.def Info: figures/person-icon.png  used on input line 10.
@@ -2129,11 +1902,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 32.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 32.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 32.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2151,11 +1922,9 @@ File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 50.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphi
-c file (type png)
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (
-CSPC)-07.png  used on input line 50.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 50.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2172,6 +1941,9 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 
+Package lastpage Warning: Rerun to get the references right on input line 52.
+
+
 AED: lastpage setting LastPage
 (thesis.aux)
  ***********
@@ -2180,36 +1952,35 @@ L3 programming layer <2024-01-04>
  ***********
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33155 strings out of 474486
- 688401 string characters out of 5743756
- 1938542 words of memory out of 5000000
- 54915 multiletter control sequences out of 15000+600000
+ 33142 strings out of 474486
+ 687794 string characters out of 5743756
+ 1937542 words of memory out of 5000000
+ 54909 multiletter control sequences out of 15000+600000
  580035 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,16n,104p,2561b,2165s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,15n,104p,2641b,2165s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{glo:starlabs} has been referenced but does not exis
-t, replaced by a fixed one
+pdfTeX warning (dest): name{glo:starlabs} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX
-/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (29 pages, 793258 bytes).
+<C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (28 pages, 783140 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
  278 words of extra memory for PDF output out of 10000 (max. 10000000)
 
