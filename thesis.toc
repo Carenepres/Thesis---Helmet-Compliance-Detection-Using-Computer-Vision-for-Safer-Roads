@@ -1,0 +1,40 @@
+\contentsline {chapter}{Approval Page}{i}{section*.1}%
+\contentsline {chapter}{Panel of Examiners}{ii}{section*.1}%
+\contentsline {chapter}{Dedication}{iii}{section*.1}%
+\contentsline {chapter}{Acknowledgments}{iv}{section*.1}%
+\contentsline {chapter}{Abstract}{v}{section*.1}%
+\contentsline {chapter}{List of Tables}{vii}{section*.3}%
+\contentsline {chapter}{List of Figures}{viii}{section*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{Background of the Problem}{1}{section*.7}%
+\contentsline {section}{Statement of the Problem}{4}{section*.8}%
+\contentsline {section}{Objectives of the Study}{5}{section*.9}%
+\contentsline {subsection}{General Objective}{5}{subsection*.10}%
+\contentsline {subsection}{Specific Objectives}{5}{subsection*.11}%
+\contentsline {section}{Significance of the Study}{6}{section*.12}%
+\contentsline {section}{Scope and Limitation}{7}{section*.13}%
+\contentsline {section}{Project Dictionary}{8}{section*.14}%
+\contentsline {section}{\centering Notes}{12}{section*.14}%
+\contentsline {chapter}{\numberline {2}Related Literature and Studies}{15}{chapter.2}%
+\contentsline {subsection}{Helmet Detection using Computer Vision}{15}{subsection*.15}%
+\contentsline {subsection}{Object Detection Models and Image Processing Techniques}{17}{subsection*.16}%
+\contentsline {subsubsection}{Vehicle Classification}{19}{subsubsection*.17}%
+\contentsline {subsubsection}{Passenger Counting}{21}{subsubsection*.18}%
+\contentsline {subsubsection}{Evaluation Metrics of YOLOv8}{22}{subsubsection*.19}%
+\contentsline {section}{Synthesis of the State-of-the-Art}{23}{section*.20}%
+\contentsline {section}{Gap Bridged of the Study}{25}{section*.21}%
+\contentsline {chapter}{\numberline {3}Methodology}{27}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Results and Discussion}{28}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusion}{29}{chapter.5}%
+\contentsline {chapter}{Bibliography}{30}{section*.25}%
+\global \c@tocdepth 1\relax 
+\contentsline {chapter}{Appendices}{34}{section*.27}%
+\renewcommand {\cftsecpresnum }{Appendix }
+\renewcommand {\cftsecnumwidth }{5.75em}
+\renewcommand {\cftsecaftersnum }{:}
+\begingroup \let \l@chapter \l@section \let \l@section \l@subsection 
+\contentsline {chapter}{\numberline {A}Language Editing Certification}{35}{appendix.a.A}%
+\contentsline {chapter}{\numberline {B}Secretary's Certification}{36}{appendix.a.B}%
+\contentsline {chapter}{\numberline {C}JOINT AFFIDAVIT OF UNDERTAKING (Plagiarism)}{37}{appendix.a.C}%
+\endgroup 
+\contentsline {chapter}{Vita}{38}{appendix*.28}%
