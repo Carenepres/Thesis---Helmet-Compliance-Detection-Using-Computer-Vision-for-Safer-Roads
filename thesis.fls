@@ -282,6 +282,9 @@ INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT .\thesis.aux
+INPUT .\thesis.aux
+INPUT thesis.aux
 OUTPUT thesis.aux
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -434,14 +437,30 @@ INPUT .\chapters\chapter1.tex
 INPUT .\chapters\chapter1.tex
 INPUT .\chapters\chapter1.tex
 INPUT chapters\chapter1.tex
-INPUT .\figures\sampleFig1.jpg
-INPUT .\figures\sampleFig1.jpg
-INPUT .\figures\sampleFig1.jpg
-INPUT .\figures\sampleFig1.jpg
-INPUT .\figures\sampleFig1.jpg
-INPUT .\figures\sampleFig1.jpg
-INPUT .\figures\sampleFig1.jpg
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
@@ -459,44 +478,12 @@ INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
-INPUT .\figures\imageA.png
-INPUT .\figures\imageA.png
-INPUT .\figures\imageA.png
-INPUT .\figures\imageA.png
-INPUT .\figures\imageA.png
-INPUT .\figures\imageA.png
-INPUT .\figures\imageA.png
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT .\figures\imageB.png
-INPUT .\figures\imageB.png
-INPUT .\figures\imageB.png
-INPUT .\figures\imageB.png
-INPUT .\figures\imageB.png
-INPUT .\figures\imageB.png
-INPUT .\figures\imageB.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageC.png
-INPUT .\figures\imageD.png
-INPUT .\figures\imageD.png
-INPUT .\figures\imageD.png
-INPUT .\figures\imageD.png
-INPUT .\figures\imageD.png
-INPUT .\figures\imageD.png
-INPUT .\figures\imageD.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
@@ -514,19 +501,44 @@ INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc7t.tfm
-INPUT .\chapters\chapter2.tex
-INPUT .\chapters\chapter2.tex
-INPUT .\chapters\chapter2.tex
-INPUT .\chapters\chapter2.tex
-INPUT chapters\chapter2.tex
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
@@ -540,7 +552,30 @@ INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\chapters\chapter2.tex
+INPUT .\chapters\chapter2.tex
+INPUT .\chapters\chapter2.tex
+INPUT .\chapters\chapter2.tex
+INPUT chapters\chapter2.tex
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
@@ -553,6 +588,7 @@ INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT .\figures\sampleFig2.png
 INPUT .\figures\sampleFig2.png
 INPUT .\figures\sampleFig2.png
@@ -568,6 +604,9 @@ INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\figures\sampleFig1.jpg
+INPUT .\figures\sampleFig1.jpg
+INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
@@ -585,14 +624,6 @@ INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT chapters\chapter3.tex
-INPUT .\settings\CSPC-WEBSITEV2_3.png
-INPUT .\settings\CSPC-WEBSITEV2_3.png
-INPUT .\settings\CSPC-WEBSITEV2_3.png
-INPUT .\settings\CSPC-WEBSITEV2_3.png
-INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
-INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
-INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
-INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
@@ -631,6 +662,14 @@ INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
 INPUT .\figures\sampleFig1.jpg
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\CSPC-WEBSITEV2_3.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
+INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
 INPUT .\settings\CSPC-WEBSITEV2_3.png
@@ -722,14 +761,6 @@ INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT .\settings\Proposed Logo - College of Computer Studies (CSPC)-07.png
 INPUT thesis.aux
 OUTPUT thesis.run.xml
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb

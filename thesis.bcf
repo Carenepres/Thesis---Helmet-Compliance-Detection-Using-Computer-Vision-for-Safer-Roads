@@ -2404,12 +2404,29 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1" intorder="1">onate_exploring_2021</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">scholes2011lessons</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">ssdsdsd_solid_2012</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">noauthor_techopedia_nodate</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">noauthor_biblatex_nodate</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">scholes2011lessons</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">Maddi2023</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Godbole2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Kumar2023</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Said2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Thakur2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">MMDA2023</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Republic2009</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Russell2021</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Cormen2009</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">HarmsRingdahl2013</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Szeliski2010</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Deng2009</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Goodfellow2016</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">MerriamHelmet</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">WHO2018</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Hayat2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Gonzalez2018</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">BritannicaLaw</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Tian2019</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Kim2022</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">OxfordRef</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">BritannicaTraffic</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Redmon2020</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
