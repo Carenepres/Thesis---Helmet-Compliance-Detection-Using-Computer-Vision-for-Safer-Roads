@@ -3,8 +3,8 @@
 \contentsline {chapter}{Dedication}{iii}{section*.1}%
 \contentsline {chapter}{Acknowledgments}{iv}{section*.1}%
 \contentsline {chapter}{Abstract}{v}{section*.1}%
-\contentsline {chapter}{List of Tables}{viii}{section*.3}%
-\contentsline {chapter}{List of Figures}{ix}{section*.5}%
+\contentsline {chapter}{List of Tables}{vii}{section*.3}%
+\contentsline {chapter}{List of Figures}{viii}{section*.5}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{Background of the Problem}{1}{section*.7}%
 \contentsline {section}{Statement of the Problem}{2}{section*.10}%
