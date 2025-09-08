@@ -2998,7 +2998,1167 @@
       \verb 10.1109/ICAI52203.2021.9445206
       \endverb
     \endentry
+    \entry{bhatt2024ai}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=7e5fd850a6253a8d38b76413fdb28c81}{%
+           family={Bhatt},
+           familyi={B\bibinitperiod},
+           given={Kartikeya},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e4566705cee5820588a90386f239d473}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=80794c7b49b88cbe5a2a9cf33ef78885}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Gaurav},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d8c46554095dd7bb229141e7205afb56}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Vikrant},
+           giveni={V\bibinitperiod}}}%
+        {{hash=307537d97511b743d87c520181ea7207}{%
+           family={Vats},
+           familyi={V\bibinitperiod},
+           given={Satvik},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7ae6912e45242bdf2e25a58bb7b4d52}
+      \strng{fullhash}{f20472a24d32822f82252f628389e512}
+      \strng{bibnamehash}{f20472a24d32822f82252f628389e512}
+      \strng{authorbibnamehash}{f20472a24d32822f82252f628389e512}
+      \strng{authornamehash}{b7ae6912e45242bdf2e25a58bb7b4d52}
+      \strng{authorfullhash}{f20472a24d32822f82252f628389e512}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2024 International Conference on Computational Intelligence and Computer Applications (ICCICA)}
+      \field{title}{AI Guardian on the Road: Harnessing Machine Learning for Two-Wheeler Helmet Detection}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1109/iccica60014.2024.10585188
+      \endverb
+    \endentry
+    \entry{chandrika2020vehicle}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6cf9ac0de723a1d6ef8a0e39e803128a}{%
+           family={Chandrika},
+           familyi={C\bibinitperiod},
+           given={Roopa\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c2dd02742b096131e6ac312815e4c01e}{%
+           family={Ganesh},
+           familyi={G\bibinitperiod},
+           given={N.\bibnamedelimi Gowri},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=56151d75ae060d5c8ae1447af310347b}{%
+           family={Mummoorthy},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dfce5a435942f38e36c2a05cca5d6737}{%
+           family={Raghunath},
+           familyi={R\bibinitperiod},
+           given={K.\bibnamedelimi Karthick},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{727752781b96239962664c447bc31832}
+      \strng{fullhash}{54da813a857cad009be276f38786882f}
+      \strng{bibnamehash}{54da813a857cad009be276f38786882f}
+      \strng{authorbibnamehash}{54da813a857cad009be276f38786882f}
+      \strng{authornamehash}{727752781b96239962664c447bc31832}
+      \strng{authorfullhash}{54da813a857cad009be276f38786882f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2019 International Conference on Emerging Trends in Science and Engineering (ICESE)}
+      \field{title}{Vehicle Detection and Classification Using Image Processing}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICESE46178.2019.9194678
+      \endverb
+    \endentry
+    \entry{choubey2025helmet}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=af6afd16499c4df280564c4b4b53aba6}{%
+           family={Choubey},
+           familyi={C\bibinitperiod},
+           given={Rajnandani},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c26154a5cdf979cd2cd02ede010269aa}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Saloni},
+           giveni={S\bibinitperiod}}}%
+        {{hash=563f209f1b98ffff5b193175c639fdc9}{%
+           family={Mourya},
+           familyi={M\bibinitperiod},
+           given={Saloni},
+           giveni={S\bibinitperiod}}}%
+        {{hash=297eb7a8b20f38955b5d88db03038ed7}{%
+           family={Narayan},
+           familyi={N\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d433b63da982b61c459948c60f068721}{%
+           family={Bhargav},
+           familyi={B\bibinitperiod},
+           given={Dhruv},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c112fc4277db84187741ee109a21cd2e}
+      \strng{fullhash}{144573a262d5073b7d2054459bfcfd44}
+      \strng{bibnamehash}{144573a262d5073b7d2054459bfcfd44}
+      \strng{authorbibnamehash}{144573a262d5073b7d2054459bfcfd44}
+      \strng{authornamehash}{c112fc4277db84187741ee109a21cd2e}
+      \strng{authorfullhash}{144573a262d5073b7d2054459bfcfd44}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.researchgate.net/profile/Ijeasm-Journal/publication/388218838_Helmet_and_Number_plate_detection_by_using_yolo_and_open_cv/links/678f7986ec3ae3435a72778d/Helmet-and-Number-plate-detection-by-using-yolo-and-open-cv.pdf}}
+      \field{title}{Helmet and Number Plate Detection by Using YOLO and OpenCV}
+      \field{year}{2025}
+    \endentry
+    \entry{Espinosa2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9a29f78933e46700f5cc24317ea9fb15}{%
+           family={Espinosa},
+           familyi={E\bibinitperiod},
+           given={Jorge\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=21d4feadc43b1483077b7015edba4fb0}{%
+           family={Velastín},
+           familyi={V\bibinitperiod},
+           given={Sergio\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=df173104e8865db381b93a499c3cc236}{%
+           family={Branch},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{da4f1adbc05345ee49cad790659f174b}
+      \strng{fullhash}{0d4186e5c58503b626adf4639c9aaa3b}
+      \strng{bibnamehash}{0d4186e5c58503b626adf4639c9aaa3b}
+      \strng{authorbibnamehash}{0d4186e5c58503b626adf4639c9aaa3b}
+      \strng{authornamehash}{da4f1adbc05345ee49cad790659f174b}
+      \strng{authorfullhash}{0d4186e5c58503b626adf4639c9aaa3b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{number}{10}
+      \field{title}{Detection of Motorcycles in Urban Traffic Using Video Analysis: A Review}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{6115\bibrangedash 6130}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/TITS.2020.2997084
+      \endverb
+    \endentry
+    \entry{gfg2021yolo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f1e069787ece74531d112559945c6871}{%
+           family={{GeeksforGeeks}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed April 22, 2025}
+      \field{title}{YOLO -- You Only Look Once (Real-time Object Detection)}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/?ref=ml_lbp
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/?ref=ml_lbp
+      \endverb
+    \endentry
+    \entry{giron2020motorcycle}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=c6f362fd57a35777c728c54b867044ff}{%
+           family={Giron},
+           familyi={G\bibinitperiod},
+           given={Nemuel\bibnamedelimb Norman\bibnamedelima F.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=c73ff95673d1423837bd820960b5240d}{%
+           family={Billones},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelimb Kerwin\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4ebf4542963717a72a572b3f940c35f6}{%
+           family={Fillone},
+           familyi={F\bibinitperiod},
+           given={Alexis\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=44058a3a63a881c825ce92af6ec96d84}{%
+           family={Rosario},
+           familyi={R\bibinitperiod},
+           given={Jay\bibnamedelimb Robert\bibnamedelima Del},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9f047c6e020de61171b2463fd487d1b4}{%
+           family={Cabatuan},
+           familyi={C\bibinitperiod},
+           given={Melvin\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=91b58196daa4fe88dd7d8cd3a70fef63}{%
+           family={Bandala},
+           familyi={B\bibinitperiod},
+           given={Argel\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7106a0fb8c1b08ada52a3721b6840d2a}{%
+           family={Dadios},
+           familyi={D\bibinitperiod},
+           given={Elmer\bibnamedelima P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{aeed328c91e070a9d593da67bb32f547}
+      \strng{fullhash}{4812f181e840253f5e5dbdeda8acff99}
+      \strng{bibnamehash}{4812f181e840253f5e5dbdeda8acff99}
+      \strng{authorbibnamehash}{4812f181e840253f5e5dbdeda8acff99}
+      \strng{authornamehash}{aeed328c91e070a9d593da67bb32f547}
+      \strng{authorfullhash}{4812f181e840253f5e5dbdeda8acff99}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE Conference}
+      \field{title}{Motorcycle Rider Helmet Detection for Riding Safety and Compliance Using Convolutional Neural Networks}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9400149
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9400149
+      \endverb
+    \endentry
+    \entry{hussain2024yolo}{article}{}
+      \name{author}{1}{}{%
+        {{hash=506b587186b760b2f884e19c703f7ffd}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{506b587186b760b2f884e19c703f7ffd}
+      \strng{fullhash}{506b587186b760b2f884e19c703f7ffd}
+      \strng{bibnamehash}{506b587186b760b2f884e19c703f7ffd}
+      \strng{authorbibnamehash}{506b587186b760b2f884e19c703f7ffd}
+      \strng{authornamehash}{506b587186b760b2f884e19c703f7ffd}
+      \strng{authorfullhash}{506b587186b760b2f884e19c703f7ffd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2407.02988}
+      \field{title}{YOLOv5, YOLOv8 and YOLOv10: The Go-To Detectors for Real-time Vision}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.48550/arXiv.2407.02988
+      \endverb
+    \endentry
+    \entry{jiang2022review}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cfee295769917f190b5452668046130c}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Peiyuan},
+           giveni={P\bibinitperiod}}}%
+        {{hash=89ac469fa346462120acfd4f24d8896a}{%
+           family={Ergu},
+           familyi={E\bibinitperiod},
+           given={Daji},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cb1fdce5d3a3877d7a15859e937b7318}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fangyao},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1590429c915a01a51d67986862f94c45}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5d175f09ef61faffce7a1860094ac4c8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0f385aea30902cda19490817ed770e69}
+      \strng{fullhash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{bibnamehash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authorbibnamehash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authornamehash}{0f385aea30902cda19490817ed770e69}
+      \strng{authorfullhash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{A review of YOLO algorithm developments}
+      \field{volume}{199}
+      \field{year}{2022}
+      \field{pages}{1066\bibrangedash 1073}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050922001363
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050922001363
+      \endverb
+    \endentry
+    \entry{karthika2024automated}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=996d3dd88fd294f3a3ada69199608850}{%
+           family={Karthika},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9ffbd04e7df3c386a01bbbd568d40c2c}{%
+           family={Dharssinee},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ca19021c49899ca5d3cf366ca7b7ed2f}{%
+           family={Reshma},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=177893902fdbda542c333640e5c4a0fb}{%
+           family={Venkatesan},
+           familyi={V\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=21b1a844f5c1074dbde67b35c114c709}{%
+           family={Sujarani},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{63978fd0c4f3838d79cb946ae2fc1ffb}
+      \strng{fullhash}{0e4b4057ba4445b124c34fd34c7ef564}
+      \strng{bibnamehash}{0e4b4057ba4445b124c34fd34c7ef564}
+      \strng{authorbibnamehash}{0e4b4057ba4445b124c34fd34c7ef564}
+      \strng{authornamehash}{63978fd0c4f3838d79cb946ae2fc1ffb}
+      \strng{authorfullhash}{0e4b4057ba4445b124c34fd34c7ef564}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the International Conference on Communication, Computing, and Networks Technologies (ICCCNT)}
+      \field{title}{Automated object detection and recognition using YOLOv8}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1109/ICCCNT61001.2024.10724411
+      \endverb
+    \endentry
+    \entry{kili2023yolo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=863a629bc9ea9dc3d30020d889ef620e}{%
+           family={{Kili Technology}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{863a629bc9ea9dc3d30020d889ef620e}
+      \strng{fullhash}{863a629bc9ea9dc3d30020d889ef620e}
+      \strng{bibnamehash}{863a629bc9ea9dc3d30020d889ef620e}
+      \strng{authorbibnamehash}{863a629bc9ea9dc3d30020d889ef620e}
+      \strng{authornamehash}{863a629bc9ea9dc3d30020d889ef620e}
+      \strng{authorfullhash}{863a629bc9ea9dc3d30020d889ef620e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed April 29, 2025}
+      \field{title}{YOLO Algorithm: Real-Time Object Detection from A to Z}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://kili-technology.com/data-labeling/machine-learning/yolo-algorithm-real-time-object-detection-from-a-to-z
+      \endverb
+      \verb{url}
+      \verb https://kili-technology.com/data-labeling/machine-learning/yolo-algorithm-real-time-object-detection-from-a-to-z
+      \endverb
+    \endentry
+    \entry{kumar2024realtime}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=6b61cc5d15436e47fe7663b51d09c130}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Abhash},
+           giveni={A\bibinitperiod}}}%
+        {{hash=853690aa7342d4b42293564a057f74f3}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi S.\bibnamedelimi Guru},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=42a35da3e77d3a1ede933cfd6d6c5550}{%
+           family={Soni},
+           familyi={S\bibinitperiod},
+           given={Dheeraj},
+           giveni={D\bibinitperiod}}}%
+        {{hash=79ac157bc3e21c49f5e91b85c230f066}{%
+           family={Rani},
+           familyi={R\bibinitperiod},
+           given={Vibha},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8f780d8eb76ecb6e9aa3dca4a0d24cbc}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Kanika},
+           giveni={K\bibinitperiod}}}%
+        {{hash=72d36a53fac6881a6e44fb6dc22fadd1}{%
+           family={Ganesh},
+           familyi={G\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c801c5ada3efe8d03c7de9c00a0e40b1}
+      \strng{fullhash}{c89556a0653648ede2252441e9edb0f4}
+      \strng{bibnamehash}{c89556a0653648ede2252441e9edb0f4}
+      \strng{authorbibnamehash}{c89556a0653648ede2252441e9edb0f4}
+      \strng{authornamehash}{c801c5ada3efe8d03c7de9c00a0e40b1}
+      \strng{authorfullhash}{c89556a0653648ede2252441e9edb0f4}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2nd International Conference on Advancement in Computation \& Computer Technologies (InCACCT)}
+      \field{title}{Real-Time Helmet Detection System with Vehicle Number Extraction for Two-Wheeler Vehicles using YOLOv8}
+      \field{year}{2024}
+      \field{pages}{672\bibrangedash 676}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10551102
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10551102
+      \endverb
+    \endentry
+    \entry{kumar2023vision}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=990308786c0c28bf822d9eac8419a24c}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Raman},
+           giveni={R\bibinitperiod}}}%
+        {{hash=29fc5616e8dbd3ab420b6cfe520993b5}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Yogendra},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=84bb49822cb72784052373c105f1635b}{%
+           family={Alkhayyat},
+           familyi={A\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3e004215f54616b4f538c649a1f740c4}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Lovneesh},
+           giveni={L\bibinitperiod}}}%
+        {{hash=77f3b030d279d9a648ac30f810d464d5}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Ankita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=18babdba58a45e66a3c7fe2db2d0ee48}{%
+           family={Dogra},
+           familyi={D\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{e210636215a6d6f06919c8e1aa2ebd90}
+      \strng{fullhash}{ae09cea44b162f206edfc8f0869ea5e4}
+      \strng{bibnamehash}{ae09cea44b162f206edfc8f0869ea5e4}
+      \strng{authorbibnamehash}{ae09cea44b162f206edfc8f0869ea5e4}
+      \strng{authornamehash}{e210636215a6d6f06919c8e1aa2ebd90}
+      \strng{authorfullhash}{ae09cea44b162f206edfc8f0869ea5e4}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Intelligent Systems Design and Applications}
+      \field{title}{Vision-Based Safety Identification and Monitoring System Using TensorFlow}
+      \field{year}{2023}
+      \field{pages}{369\bibrangedash 375}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/978-3-031-64650-8_36
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/978-3-031-64650-8_36
+      \endverb
+    \endentry
+    \entry{muhammad2024helmet}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=939da821f5be8522f16c3d764d06a972}{%
+           family={Muhammad},
+           familyi={M\bibinitperiod},
+           given={Fadil},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1ceb94a9ffc8b54fe94d620067bd1195}{%
+           family={Bintang},
+           familyi={B\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod}}}%
+        {{hash=45a202a8b6dd15c2459621165be4926f}{%
+           family={Fahrizal},
+           familyi={F\bibinitperiod},
+           given={Rian},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f28984f602611c9a164b346e5b3beba6}{%
+           family={Ahendyarti},
+           familyi={A\bibinitperiod},
+           given={Ceri},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0ef6aa0e833b500afa85499ed3144b95}{%
+           family={Wiryadinata},
+           familyi={W\bibinitperiod},
+           given={Romi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5609e29857f31bf3c41e4810884bfdf7}{%
+           family={Muttakin},
+           familyi={M\bibinitperiod},
+           given={Imamul},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ab9068888ff2ee2f597f03f999fb27e6}
+      \strng{fullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{bibnamehash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{authorbibnamehash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{authornamehash}{ab9068888ff2ee2f597f03f999fb27e6}
+      \strng{authorfullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2024 International Conference on Informatics Electrical and Electronics (ICIEE)}
+      \field{title}{Real-Time Motorcyclist Helmet Detection using YOLOv8 on Edge Device}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICIEE63403.2024.10920426
+      \endverb
+    \endentry
+    \entry{mutyala2023helmet}{article}{}
+      \name{author}{5}{}{%
+        {{hash=176751eb0621c05c094b8a16d87f3843}{%
+           family={Mutyala},
+           familyi={M\bibinitperiod},
+           given={Pavan},
+           giveni={P\bibinitperiod}}}%
+        {{hash=28855f1e023f17e879bef497857d5ff2}{%
+           family={Gali},
+           familyi={G\bibinitperiod},
+           given={Chandrika},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cc725312ee62d9f44ca09fa2efbca548}{%
+           family={Chivakula},
+           familyi={C\bibinitperiod},
+           given={Jaidev},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bfb162ef582e3afad765c53470601c14}{%
+           family={Duggirala},
+           familyi={D\bibinitperiod},
+           given={Venkatesh},
+           giveni={V\bibinitperiod}}}%
+        {{hash=716bf6d924aed5e91ce3acaa56d1e9ec}{%
+           family={Padmaja},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9285ee43b6f671c8e371347e4dadacdf}
+      \strng{fullhash}{465ea2b1ed7815a75550908e3bcae55a}
+      \strng{bibnamehash}{465ea2b1ed7815a75550908e3bcae55a}
+      \strng{authorbibnamehash}{465ea2b1ed7815a75550908e3bcae55a}
+      \strng{authornamehash}{9285ee43b6f671c8e371347e4dadacdf}
+      \strng{authorfullhash}{465ea2b1ed7815a75550908e3bcae55a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific Research in Engineering and Management}
+      \field{title}{Automated Helmet Detection System Using RT-DETR for Real-Time Monitoring of Motorcyclist Safety}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.55041/IJSREM40150
+      \endverb
+    \endentry
+    \entry{ong2022vehicle}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2e63f46e238664af717637d094d79ab4}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={K.W.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0fa7e3b706841a6717f96cae4c10a487}{%
+           family={Loh},
+           familyi={L\bibinitperiod},
+           given={S.L.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7d63e5e9d9f8948f495176de783ce665}{%
+           family={Cheong},
+           familyi={C\bibinitperiod},
+           given={T.H.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{167ebf1f62d9496e2b9c337ab8305cbb}
+      \strng{fullhash}{66fdc148357a670ba37cef119926694b}
+      \strng{bibnamehash}{66fdc148357a670ba37cef119926694b}
+      \strng{authorbibnamehash}{66fdc148357a670ba37cef119926694b}
+      \strng{authornamehash}{167ebf1f62d9496e2b9c337ab8305cbb}
+      \strng{authorfullhash}{66fdc148357a670ba37cef119926694b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Electrical Engineering and Applied Sciences (IJEEAS)}
+      \field{number}{2}
+      \field{title}{Vehicle Classification Using Neural Networks and Image Processing}
+      \field{volume}{5}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.54554/ijeeas.2022.5.02.006
+      \endverb
+    \endentry
+    \entry{prakash2024study}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=3cb805034b22822d7342e2287b7927a8}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={Immidisetty\bibnamedelima V.},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=42fd7166d0efeaaa08d86a7eb847a944}{%
+           family={Palanivelan},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{2da24830779852b7a629d84719c5ca1a}
+      \strng{fullhash}{2da24830779852b7a629d84719c5ca1a}
+      \strng{bibnamehash}{2da24830779852b7a629d84719c5ca1a}
+      \strng{authorbibnamehash}{2da24830779852b7a629d84719c5ca1a}
+      \strng{authornamehash}{2da24830779852b7a629d84719c5ca1a}
+      \strng{authorfullhash}{2da24830779852b7a629d84719c5ca1a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Algorithms in Advanced Artificial Intelligence}
+      \field{title}{A Study of YOLO (You Only Look Once) to YOLOv8}
+      \field{year}{2024}
+      \field{pages}{257\bibrangedash 266}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1201/9781003529231-40
+      \endverb
+    \endentry
+    \entry{radovan2024passenger}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5a807ffa9d3b2e2fc72f828cd2daa7f4}{%
+           family={Radovan},
+           familyi={R\bibinitperiod},
+           given={Aleksander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1544fafd3f57a0c0f1b574ab56cd9839}{%
+           family={Mršić},
+           familyi={M\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f71ae2e374fc30a3e1d88f29e7adc22a}{%
+           family={{Đ}ambić},
+           familyi={Đ\bibinitperiod},
+           given={Goran},
+           giveni={G\bibinitperiod}}}%
+        {{hash=98e6c6f3c799625d2bea2292cf785cf9}{%
+           family={Mihaljević},
+           familyi={M\bibinitperiod},
+           given={Branko},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{06e4cd61b872ca1c658e36fc86884dd4}
+      \strng{fullhash}{0e77bc0201a921049b2200682e36cc24}
+      \strng{bibnamehash}{0e77bc0201a921049b2200682e36cc24}
+      \strng{authorbibnamehash}{0e77bc0201a921049b2200682e36cc24}
+      \strng{authornamehash}{06e4cd61b872ca1c658e36fc86884dd4}
+      \strng{authorfullhash}{0e77bc0201a921049b2200682e36cc24}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the International Conference on Transportation Engineering and Systems}
+      \field{title}{A review of passenger counting systems based on image processing and machine learning}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2673-4117/5/4/172
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2673-4117/5/4/172
+      \endverb
+    \endentry
+    \entry{rendon2023passenger}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d63c42b4602939870cc6d663a868d464}{%
+           family={Rendon},
+           familyi={R\bibinitperiod},
+           given={William\bibnamedelimb David\bibnamedelima Moreno},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cd56046a85ee4e58ce4c312c1598a3a3}{%
+           family={Anillo},
+           familyi={A\bibinitperiod},
+           given={Carolina\bibnamedelima Burgos},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=5fdf4c02f20c127cd475e0da7f503597}{%
+           family={Jaramillo-Ramirez},
+           familyi={J\bibinithyphendelim R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d3fba7ea31b5b34d6e3b0b95322021df}{%
+           family={Carrillo},
+           familyi={C\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{484f9f27cf2f3d67474d37bc40469b21}
+      \strng{fullhash}{bb94027b8d969e966ba75dcedf10b37b}
+      \strng{bibnamehash}{bb94027b8d969e966ba75dcedf10b37b}
+      \strng{authorbibnamehash}{bb94027b8d969e966ba75dcedf10b37b}
+      \strng{authornamehash}{484f9f27cf2f3d67474d37bc40469b21}
+      \strng{authorfullhash}{bb94027b8d969e966ba75dcedf10b37b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Latin America Transactions}
+      \field{number}{4}
+      \field{title}{Passenger Counting in Mass Public Transport Systems using Computer Vision and Deep Learning}
+      \field{volume}{21}
+      \field{year}{2023}
+      \field{pages}{537\bibrangedash 545}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/TLA.2023.10128885
+      \endverb
+    \endentry
+    \entry{Safaldin2024}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c9f2de88382bc7b77930620a128e6645}{%
+           family={Safaldin},
+           familyi={S\bibinitperiod},
+           given={Mukaram},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bf5bd05b062dcc03e2b5b639dd3eb5dc}{%
+           family={Zaghden},
+           familyi={Z\bibinitperiod},
+           given={Nizar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f059698bc595f9ad4dd260d74f163a63}{%
+           family={Mejdoub},
+           familyi={M\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{85dc5ef79819c762b0ffcebb2de5f41b}
+      \strng{fullhash}{8f3813091e5c678120e810956cdefad2}
+      \strng{bibnamehash}{8f3813091e5c678120e810956cdefad2}
+      \strng{authorbibnamehash}{8f3813091e5c678120e810956cdefad2}
+      \strng{authornamehash}{85dc5ef79819c762b0ffcebb2de5f41b}
+      \strng{authorfullhash}{8f3813091e5c678120e810956cdefad2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{An improved YOLOv8 to detect moving objects}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{pages}{59782\bibrangedash 59806}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2024.3393835
+      \endverb
+    \endentry
+    \entry{Sanjana2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=290ba64d7c25e30df2652e2a91d1fae7}{%
+           family={Sanjana},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=290ba64d7c25e30df2652e2a91d1fae7}{%
+           family={Sanjana},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f332fec73e8284de283352acb81d2700}{%
+           family={Shriya},
+           familyi={S\bibinitperiod},
+           given={V.\bibnamedelimi R.},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8216219ea4f07b70ac9b5a55b1f1198d}{%
+           family={Sandeep},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f0e829f9e5d1e043efae904e56f9bda2}{%
+           family={Vaibhav},
+           familyi={V\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c8feb6642c460daa15822df072b8093}
+      \strng{fullhash}{5f168e1d3fd32f278a6f24177008cd3a}
+      \strng{bibnamehash}{5f168e1d3fd32f278a6f24177008cd3a}
+      \strng{authorbibnamehash}{5f168e1d3fd32f278a6f24177008cd3a}
+      \strng{authornamehash}{7c8feb6642c460daa15822df072b8093}
+      \strng{authorfullhash}{5f168e1d3fd32f278a6f24177008cd3a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evolutionary Intelligence}
+      \field{title}{A Review on Various Methodologies Used for Vehicle Classification, Helmet Detection and Number Plate Recognition}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{979\bibrangedash 987}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s12065-020-00493-7
+      \endverb
+    \endentry
+    \entry{satheesh2024automated}{article}{}
+      \name{author}{6}{}{%
+        {{hash=b207d29225da753c0bb2b53c65c81ca1}{%
+           family={Satheesh},
+           familyi={S\bibinitperiod},
+           given={Kavuri\bibnamedelimb K.\bibnamedelimi S.\bibnamedelimi V.\bibnamedelimi A.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ab31eec67b906f128be32f180d7bb5b8}{%
+           family={Akhila},
+           familyi={A\bibinitperiod},
+           given={Nandam\bibnamedelima Sai},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=325273d2e9aeafb595f01560434eec06}{%
+           family={Amarnadh},
+           familyi={A\bibinitperiod},
+           given={Dondapati},
+           giveni={D\bibinitperiod}}}%
+        {{hash=375f0844053245341b77caa2302b65df}{%
+           family={Swetha},
+           familyi={S\bibinitperiod},
+           given={Paruchuri\bibnamedelima Sagar},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3e58ee721e35d0c539ae686dfa78d75b}{%
+           family={Sohan},
+           familyi={S\bibinitperiod},
+           given={Avula\bibnamedelima Venkata},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8e6de005d4709d381e9227dd60c71111}{%
+           family={Pardhiv},
+           familyi={P\bibinitperiod},
+           given={Vasireddy},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{a426492e3399117576725b3fc2da5aea}
+      \strng{fullhash}{903df1baa1a297ffaa7ebe5517e7c0e6}
+      \strng{bibnamehash}{903df1baa1a297ffaa7ebe5517e7c0e6}
+      \strng{authorbibnamehash}{903df1baa1a297ffaa7ebe5517e7c0e6}
+      \strng{authornamehash}{a426492e3399117576725b3fc2da5aea}
+      \strng{authorfullhash}{903df1baa1a297ffaa7ebe5517e7c0e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EPRA International Journal}
+      \field{title}{Automated Helmet Monitoring System Using Deep Learning}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.36713/epra16328
+      \endverb
+    \endentry
+    \entry{sharma2024vision}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a8d467c509dfdbf90fb914899752fb1a}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8d467c509dfdbf90fb914899752fb1a}
+      \strng{fullhash}{a8d467c509dfdbf90fb914899752fb1a}
+      \strng{bibnamehash}{a8d467c509dfdbf90fb914899752fb1a}
+      \strng{authorbibnamehash}{a8d467c509dfdbf90fb914899752fb1a}
+      \strng{authornamehash}{a8d467c509dfdbf90fb914899752fb1a}
+      \strng{authorfullhash}{a8d467c509dfdbf90fb914899752fb1a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intelligent Systems Design and Applications: Information and Network Security}
+      \field{title}{Vision-Based Safety Identification and Monitoring System Using TensorFlow}
+      \field{volume}{3}
+      \field{year}{2024}
+      \field{pages}{369}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/978-3-031-64650-8_36
+      \endverb
+    \endentry
+    \entry{siebert2024urban}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d8e0855bc12f80bc3637be39cae42f81}{%
+           family={Siebert},
+           familyi={S\bibinitperiod},
+           given={Felix\bibnamedelima Wilhelm},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8fa53cb26a4f0bbabe62ca3e5b8722d6}{%
+           family={Riis},
+           familyi={R\bibinitperiod},
+           given={Christoffer},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a34cd02682d2a29ca60db6df477ffb7f}{%
+           family={Hüttel},
+           familyi={H\bibinitperiod},
+           given={Frederik\bibnamedelima Boe},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb6f1eb01d7ca17c903f9448da6bb84d}
+      \strng{fullhash}{7f837ef8c97a8268714974c834ebe2b1}
+      \strng{bibnamehash}{7f837ef8c97a8268714974c834ebe2b1}
+      \strng{authorbibnamehash}{7f837ef8c97a8268714974c834ebe2b1}
+      \strng{authornamehash}{bb6f1eb01d7ca17c903f9448da6bb84d}
+      \strng{authorfullhash}{7f837ef8c97a8268714974c834ebe2b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Injury Prevention}
+      \field{title}{365: Urban motorcycle helmet use surveillance in Southeast Asia – a cost-efficient computer vision approach}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1136/injuryprev-2024-SAFETY.181
+      \endverb
+    \endentry
+    \entry{singh2024visual}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=06b062a239cf55fdccdcf73965922e69}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Surendra},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{06b062a239cf55fdccdcf73965922e69}
+      \strng{fullhash}{06b062a239cf55fdccdcf73965922e69}
+      \strng{bibnamehash}{06b062a239cf55fdccdcf73965922e69}
+      \strng{authorbibnamehash}{06b062a239cf55fdccdcf73965922e69}
+      \strng{authornamehash}{06b062a239cf55fdccdcf73965922e69}
+      \strng{authorfullhash}{06b062a239cf55fdccdcf73965922e69}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.researchgate.net/publication/382495810}}
+      \field{title}{Visual Vigilance: Enhancing Helmet Recognition Through Computer Vision}
+      \field{year}{2024}
+    \endentry
+    \entry{soltanikazemi2023helmet}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=6a4d3e4261f727f21dd050ce5efd4a83}{%
+           family={Soltanikazemi},
+           familyi={S\bibinitperiod},
+           given={Elham},
+           giveni={E\bibinitperiod}}}%
+        {{hash=971b43048433e18421513ab6f0a2ddae}{%
+           family={Dhakal},
+           familyi={D\bibinitperiod},
+           given={Ashwin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=38c0b1c3f4501a80ff7f37986171f723}{%
+           family={Hatuwal},
+           familyi={H\bibinitperiod},
+           given={Bijaya},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7cccf2add2c822201e558128c4e8a424}{%
+           family={Toubal},
+           familyi={T\bibinitperiod},
+           given={Imad\bibnamedelima Eddine},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{12eb12c8f00c776c5532f2bbdab26c42}
+      \strng{fullhash}{57e494efd330cf20e566c8348fab9434}
+      \strng{bibnamehash}{57e494efd330cf20e566c8348fab9434}
+      \strng{authorbibnamehash}{57e494efd330cf20e566c8348fab9434}
+      \strng{authornamehash}{12eb12c8f00c776c5532f2bbdab26c42}
+      \strng{authorfullhash}{57e494efd330cf20e566c8348fab9434}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.researchgate.net/publication/377236120}}
+      \field{title}{Real-Time Helmet Violation Detection in AI City Challenge 2023 with Genetic Algorithm-Enhanced YOLOv5}
+      \field{year}{2023}
+    \endentry
+    \entry{terven2022comprehensive}{article}{}
+      \name{author}{3}{}{%
+        {{hash=93e141b5d802e4e01a6e89c21fe987f0}{%
+           family={Terven},
+           familyi={T\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dfa25f6c7070c0fc0f4f68c633c24955}{%
+           family={Córdova-Esparza},
+           familyi={C\bibinithyphendelim E\bibinitperiod},
+           given={Diana-Margarita},
+           giveni={D\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=b6e0367bb1f1adda5538e853e1f7b906}{%
+           family={Romero-González},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Julio-Alejandro},
+           giveni={J\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{d2357a00ef7339c4fa13e33bd2802fa2}
+      \strng{fullhash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{bibnamehash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{authorbibnamehash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{authornamehash}{d2357a00ef7339c4fa13e33bd2802fa2}
+      \strng{authorfullhash}{48956cf27f42e7a960d148f7da00585f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI}
+      \field{number}{4}
+      \field{title}{A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{83}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2504-4990/5/4/83
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2504-4990/5/4/83
+      \endverb
+    \endentry
+    \entry{tomas2023motorcycle}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3a4c2c8e9840a42be9eea0784e155443}{%
+           family={Tomas},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelimb Paul\bibnamedelima Q.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=8731ba28863df01b05200e2a1ed46cd0}{%
+           family={Doma},
+           familyi={D\bibinitperiod},
+           given={Bonifacio\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e2e92faa28a882834af1a423bcaebe7}
+      \strng{fullhash}{6e2e92faa28a882834af1a423bcaebe7}
+      \strng{bibnamehash}{6e2e92faa28a882834af1a423bcaebe7}
+      \strng{authorbibnamehash}{6e2e92faa28a882834af1a423bcaebe7}
+      \strng{authornamehash}{6e2e92faa28a882834af1a423bcaebe7}
+      \strng{authorfullhash}{6e2e92faa28a882834af1a423bcaebe7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the ACM International Conference on Computing and Data Science (ICCDS 2023)}
+      \field{title}{Motorcycle Helmet Detection and Usage Classification in the Philippines using YOLOv5 Algorithm}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1145/3581792.3581796
+      \endverb
+    \endentry
+    \entry{Varghese2024}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=7d329b248814ad6e30bb0cfa5bd832c3}{%
+           family={Varghese},
+           familyi={V\bibinitperiod},
+           given={Rejin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=70ccd2e830ecc2b41e61e1b056a7c404}{%
+           family={Sambath},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9542e38f547f9669455aade226a8a5fb}
+      \strng{fullhash}{9542e38f547f9669455aade226a8a5fb}
+      \strng{bibnamehash}{9542e38f547f9669455aade226a8a5fb}
+      \strng{authorbibnamehash}{9542e38f547f9669455aade226a8a5fb}
+      \strng{authornamehash}{9542e38f547f9669455aade226a8a5fb}
+      \strng{authorfullhash}{9542e38f547f9669455aade226a8a5fb}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2024 International Conference on Advances in Data Engineering and Intelligent Computing Systems (ADICS)}
+      \field{month}{4}
+      \field{title}{Yolov8: A novel object detection algorithm with enhanced performance and robustness}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ADICS58448.2024.10533619
+      \endverb
+    \endentry
   \enddatalist
+  \missing{Soltanikazemi}
+  \missing{bhatt2024ai [\citeyear {bhatt2024ai}]}
+  \missing{c}
+  \missing{chandrika2019vehicle}
+  \missing{sharma2024vision [\citeyear {sharma2024vision}]}
 \endrefsection
 \endinput
 
