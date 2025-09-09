@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  9 SEP 2025 01:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  9 SEP 2025 01:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -976,7 +976,8 @@ Package color Info: Driver file: pdftex.def on input line 149.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 26.
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (thesis.aux)
+)
+No file thesis.aux.
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -997,7 +998,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
- (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count495
 \scratchdimen=\dimen290
@@ -1785,12 +1786,6 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [21]
-
-LaTeX Warning: Citation 'Soltanikazemi' on page 22 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Soltanikazemi' on page 22 undefined on input line 53.
-
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 54.
@@ -1799,6 +1794,7 @@ File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
 Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 54.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -1954,7 +1950,7 @@ Chapter 3.
 \blx@sectionciteorder@3=\count506
 Package biblatex Info: Reference section=3 on input line 3.
 Package biblatex Info: Setting label 'refsection:3' on input line 3.
-<figures/sampleFig1.jpg, id=407, 823.075pt x 469.755pt>
+<figures/sampleFig1.jpg, id=408, 823.075pt x 469.755pt>
 File: figures/sampleFig1.jpg Graphic file (type jpg)
 <use figures/sampleFig1.jpg>
 Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 8.
@@ -2262,7 +2258,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [40
 
 ]) (vita.tex
-<figures/person-icon.png, id=602, 72.27pt x 72.27pt>
+<figures/person-icon.png, id=603, 72.27pt x 72.27pt>
 File: figures/person-icon.png Graphic file (type png)
 <use figures/person-icon.png>
 Package pdftex.def Info: figures/person-icon.png  used on input line 10.
@@ -2344,17 +2340,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33451 strings out of 474486
- 700182 string characters out of 5743756
- 1983542 words of memory out of 5000000
- 55110 multiletter control sequences out of 15000+600000
+ 33448 strings out of 474486
+ 700059 string characters out of 5743756
+ 1984542 words of memory out of 5000000
+ 55109 multiletter control sequences out of 15000+600000
  577017 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,15n,104p,2641b,2501s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (51 pages, 734808 bytes).
+Output written on thesis.pdf (51 pages, 734872 bytes).
 PDF statistics:
- 770 PDF objects out of 1000 (max. 8388607)
+ 771 PDF objects out of 1000 (max. 8388607)
  200 named destinations out of 1000 (max. 500000)
  261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
