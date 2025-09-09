@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  8 SEP 2025 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  9 SEP 2025 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -976,8 +976,7 @@ Package color Info: Driver file: pdftex.def on input line 149.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 26.
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-No file thesis.aux.
+) (thesis.aux)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -998,7 +997,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count495
 \scratchdimen=\dimen290
@@ -1352,29 +1351,32 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 Chapter 1.
 \blx@maxsegment@1=\count501
 \blx@sectionciteorder@1=\count502
-Package biblatex Info: Reference section=1 on input line 2.
-Package biblatex Info: Setting label 'refsection:1' on input line 2.
+Package biblatex Info: Reference section=1 on input line 3.
+Package biblatex Info: Setting label 'refsection:1' on input line 3.
 
-LaTeX Warning: Reference `fig:firstFig' on page 1 undefined on input line 5.
-
-<figures/sampleFig1.jpg, id=58, 823.075pt x 469.755pt>
-File: figures/sampleFig1.jpg Graphic file (type jpg)
-<use figures/sampleFig1.jpg>
-Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 15.
-(pdftex.def)             Requested size: 368.57965pt x 210.35562pt.
-
-LaTeX Warning: Reference `fig:firstFig' on page 1 undefined on input line 20.
+LaTeX Warning: Citation 'Maddi2023' on page 1 undefined on input line 5.
 
 
-LaTeX Warning: Reference `tbl:sampleTbl1' on page 1 undefined on input line 22.
+LaTeX Warning: Citation 'Godbole2024' on page 1 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'Kumar2023' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'Said2024' on page 1 undefined on input line 7.
+
+
+Overfull \hbox (3.01732pt too wide) in paragraph at lines 7--8
+[]\OT1/ptm/m/n/12 The re-quire-ment for on-go-ing surveil-lance, par-tic-u-larly in busy lo-ca-tions or along lengthy
+ []
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 8.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 8.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1387,16 +1389,24 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 
 
- <./figures/sampleFig1.jpg>]
+]
+
+LaTeX Warning: Citation 'Thakur2024' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'MMDA2023' on page 2 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Republic2009' on page 2 undefined on input line 13.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 67.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 14.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 67.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 14.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -1405,247 +1415,6 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [2]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 72.
- (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-<figures/imageA.png, id=98, 320.69812pt x 329.73187pt>
-File: figures/imageA.png Graphic file (type png)
-<use figures/imageA.png>
-Package pdftex.def Info: figures/imageA.png  used on input line 84.
-(pdftex.def)             Requested size: 173.44534pt x 178.3343pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 84--85
- [][] 
- []
-
-<figures/imageB.png, id=99, 282.30469pt x 274.02374pt>
-File: figures/imageB.png Graphic file (type png)
-<use figures/imageB.png>
-Package pdftex.def Info: figures/imageB.png  used on input line 91.
-(pdftex.def)             Requested size: 173.44534pt x 168.35843pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 91--92
- [][] 
- []
-
-<figures/imageC.png, id=100, 283.81032pt x 293.59688pt>
-File: figures/imageC.png Graphic file (type png)
-<use figures/imageC.png>
-Package pdftex.def Info: figures/imageC.png  used on input line 101.
-(pdftex.def)             Requested size: 173.44534pt x 179.42981pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 101--102
- [][] 
- []
-
-<figures/imageD.png, id=101, 274.02374pt x 277.035pt>
-File: figures/imageD.png Graphic file (type png)
-<use figures/imageD.png>
-Package pdftex.def Info: figures/imageD.png  used on input line 108.
-(pdftex.def)             Requested size: 173.44534pt x 175.35304pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 108--109
- [][] 
- []
-
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 116.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 116.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[3]
-
-LaTeX Warning: Reference `fig:subsubfigwithlabel' on page 4 undefined on input line 118.
-
-
-LaTeX Warning: Reference `fig:firstFig:d' on page 4 undefined on input line 118.
-
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 124.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 124.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[4 <./figures/imageA.png> <./figures/imageB.png> <./figures/imageC.png> <./figures/imageD.png>]
-Overfull \hbox (1.89914pt too wide) in paragraph at lines 126--126
-\OT1/ptm/m/n/10 Lessons from na-ture about so-lar light har-vest-ing. \OT1/ptm/m/it/10 Na-ture chem-istry\OT1/ptm/m/n/10 , 3, 10, 763. doi:[][]10.1038/nchem.1145[][]. 
- []
-
-Package biblatex Info: Reference section=0 on input line 127.
-) (chapters/chapter2.tex
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 2.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 2.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[5
-
-]
-Chapter 2.
-\blx@maxsegment@2=\count503
-\blx@sectionciteorder@2=\count504
-Package biblatex Info: Reference section=2 on input line 3.
-Package biblatex Info: Setting label 'refsection:2' on input line 3.
-
-LaTeX Warning: Reference `fig:secondFig' on page 6 undefined on input line 5.
-
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 28.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 28.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[6
-
-]
-<figures/sampleFig2.png, id=138, 792.9625pt x 434.62375pt>
-File: figures/sampleFig2.png Graphic file (type png)
-<use figures/sampleFig2.png>
-Package pdftex.def Info: figures/sampleFig2.png  used on input line 31.
-(pdftex.def)             Requested size: 635.97621pt x 348.58812pt.
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 35.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 35.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[7 <./figures/sampleFig2.png>]
-File: figures/sampleFig1.jpg Graphic file (type jpg)
-<use figures/sampleFig1.jpg>
-Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 39.
-(pdftex.def)             Requested size: 368.57965pt x 210.35562pt.
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 48.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 48.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[8
-
-
-]
-Package biblatex Info: Reference section=0 on input line 51.
-) (chapters/chapter3.tex
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 2.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 2.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[9
-
-]
-Chapter 3.
-\blx@maxsegment@3=\count505
-\blx@sectionciteorder@3=\count506
-Package biblatex Info: Reference section=3 on input line 3.
-Package biblatex Info: Setting label 'refsection:3' on input line 3.
-File: figures/sampleFig1.jpg Graphic file (type jpg)
-<use figures/sampleFig1.jpg>
-Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 368.57965pt x 210.35562pt.
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 15.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 15.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[10
-
-]
-
-LaTeX Warning: Empty bibliography on input line 17.
-
-Package biblatex Info: Reference section=0 on input line 18.
-) (chapters/chapter4.tex
-Chapter 4.
-\blx@maxsegment@4=\count507
-\blx@sectionciteorder@4=\count508
-Package biblatex Info: Reference section=4 on input line 3.
-Package biblatex Info: Setting label 'refsection:4' on input line 3.
-File: figures/sampleFig1.jpg Graphic file (type jpg)
-<use figures/sampleFig1.jpg>
-Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 7.
-(pdftex.def)             Requested size: 368.57965pt x 210.35562pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 19.
@@ -1655,37 +1424,262 @@ File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic
 Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 19.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
+
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
 (fancyhdr)                \setlength{\headheight}{55.89021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[11
-
-
-]
-
-LaTeX Warning: Empty bibliography on input line 21.
-
-Package biblatex Info: Reference section=0 on input line 22.
-) (chapters/chapter5.tex
-Chapter 5.
-\blx@maxsegment@5=\count509
-\blx@sectionciteorder@5=\count510
-Package biblatex Info: Reference section=5 on input line 3.
-Package biblatex Info: Setting label 'refsection:5' on input line 3.
-File: figures/sampleFig1.jpg Graphic file (type jpg)
-<use figures/sampleFig1.jpg>
-Package pdftex.def Info: figures/sampleFig1.jpg  used on input line 9.
-(pdftex.def)             Requested size: 368.57965pt x 210.35562pt.
+[3]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 17.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 17.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[4]
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 39.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 39.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[5]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 47.
+ (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 58.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 58.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[6]
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 72.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 72.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[7]
+
+LaTeX Warning: Citation 'Russell2021' on page 8 undefined on input line 72.
+
+
+LaTeX Warning: Citation 'Cormen2009' on page 8 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'HarmsRingdahl2013' on page 8 undefined on input line 76.
+
+
+LaTeX Warning: Citation 'Szeliski2010' on page 8 undefined on input line 78.
+
+
+LaTeX Warning: Citation 'Deng2009' on page 8 undefined on input line 80.
+
+
+Overfull \hbox (0.4627pt too wide) in paragraph at lines 80--81
+\OT1/ptm/m/n/12 mod-els. In com-puter vi-sion, datasets con-sist of la-beled im-ages or videos [[]].
+ []
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 81.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 81.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[8]
+
+LaTeX Warning: Citation 'Goodfellow2016' on page 9 undefined on input line 82.
+
+
+Overfull \hbox (10.45824pt too wide) in paragraph at lines 82--83
+\OT1/ptm/m/n/12 ple lay-ers that learn pat-terns and rep-re-sen-ta-tions from large datasets [[]].
+ []
+
+
+LaTeX Warning: Citation 'MerriamHelmet' on page 9 undefined on input line 84.
+
+
+LaTeX Warning: Citation 'WHO2018' on page 9 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'Hayat2022' on page 9 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'Gonzalez2018' on page 9 undefined on input line 90.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 91.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 91.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[9]
+
+LaTeX Warning: Citation 'BritannicaLaw' on page 10 undefined on input line 92.
+
+
+LaTeX Warning: Citation 'Tian2019' on page 10 undefined on input line 94.
+
+
+LaTeX Warning: Citation 'Kim2022' on page 10 undefined on input line 96.
+
+
+LaTeX Warning: Citation 'OxfordRef' on page 10 undefined on input line 98.
+
+
+Overfull \hbox (3.87088pt too wide) in paragraph at lines 98--99
+\OT1/ptm/m/n/12 or se-ri-ously in-jured, in-clud-ing reg-u-la-tions, in-fras-truc-ture, and ed-u-ca-tion [[]].
+ []
+
+
+LaTeX Warning: Citation 'BritannicaTraffic' on page 10 undefined on input line 100.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 102.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 102.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[10]
+
+LaTeX Warning: Citation 'Redmon2020' on page 11 undefined on input line 102.
+
+
+Overfull \hbox (17.28595pt too wide) in paragraph at lines 102--103
+\OT1/ptm/m/n/12 pro-cesses an im-age in a sin-gle pass to de-tect mul-ti-ple ob-jects in real time [[]].
+ []
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 109.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 109.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[11]
+
+LaTeX Warning: Empty bibliography on input line 110.
+
+Package biblatex Info: Reference section=0 on input line 111.
+) (chapters/chapter2.tex
+Chapter 2.
+\blx@maxsegment@2=\count503
+\blx@sectionciteorder@2=\count504
+Package biblatex Info: Reference section=2 on input line 4.
+Package biblatex Info: Setting label 'refsection:2' on input line 4.
+
+LaTeX Warning: Citation 'afzal2021helmet' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'afzal2021helmet' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'afzal2021helmet' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'singh2024visual' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'singh2024visual' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'singh2024visual' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'siebert2024urban' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'siebert2024urban' on page 12 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'siebert2024urban' on page 12 undefined on input line 11.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 12.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 12.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1699,136 +1693,115 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 19.
-
-Package biblatex Info: Reference section=0 on input line 20.
-)
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
+LaTeX Warning: Citation 'giron2020motorcycle' on page 13 undefined on input line 13.
 
 
-Overfull \hbox (0.29712pt too wide) in paragraph at lines 47--47
-[]\OT1/ptm/m/n/10 Milton Abramowitz and Irene A. Ste-gun. 1964. \OT1/ptm/m/it/10 Hand-book of Math-e-mat-i-cal Func-tions with For-mu-las, Graphs,
+LaTeX Warning: Citation 'giron2020motorcycle' on page 13 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'giron2020motorcycle' on page 13 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'soltanikazemi2023helmet' on page 13 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'soltanikazemi2023helmet' on page 13 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'soltanikazemi2023helmet' on page 13 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'mutyala2023helmet' on page 13 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'mutyala2023helmet' on page 13 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'mutyala2023helmet' on page 13 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'tomas2023motorcycle' on page 13 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'tomas2023motorcycle' on page 13 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'tomas2023motorcycle' on page 13 undefined on input line 15.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 16.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 16.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[13]
+
+LaTeX Warning: Citation 'jiang2022review' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'jiang2022review' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'jiang2022review' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'terven2022comprehensive' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'terven2022comprehensive' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'terven2022comprehensive' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'gfg2021yolo' on page 14 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'kumar2024realtime' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'kumar2024realtime' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'kumar2024realtime' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'muhammad2024helmet' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'muhammad2024helmet' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'muhammad2024helmet' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'choubey2025helmet' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'choubey2025helmet' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'choubey2025helmet' on page 14 undefined on input line 22.
+
+
+Overfull \hbox (14.93576pt too wide) in paragraph at lines 21--23
+\OT1/ptm/m/n/12 [[]] dis-cuss the evo-lu-tion of YOLO from its first ver-sion to YOLOv8,
  []
 
 
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
+Overfull \hbox (39.68018pt too wide) in paragraph at lines 21--23
+\OT1/ptm/m/n/12 en-force-ment [[]]. Furthermore,[] [[]]
+ []
 
-
-Package biblatex Warning: Type 'proceedings' not found on input line 47.
-
-
-LaTeX Warning: Empty bibliography on input line 47.
-
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-
-Package biblatex Warning: Split bibliography detected.
-(biblatex)                Many simple split bibliography setups with
-(biblatex)                non-overlapping bibliographies benefit from
-(biblatex)                setting 'defernumbers=true'.
-(biblatex)                See the documentation for details.
-(biblatex)                This warning can be suppressed with
-(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-(chapters/appendix.tex
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 4.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 4.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[13
-
-
-
-]
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 6.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 6.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[14
-
-
-]
-Appendix A.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
@@ -1844,10 +1817,108 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[15
+[14]
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
-]
-Appendix B.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[15]
+
+LaTeX Warning: Citation 'satheesh2024automated' on page 16 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'satheesh2024automated' on page 16 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'satheesh2024automated' on page 16 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'kumar2023vision' on page 16 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'kumar2023vision' on page 16 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'kumar2023vision' on page 16 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'sharma2024vision' on page 16 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'sharma2024vision' on page 16 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'sharma2024vision' on page 16 undefined on input line 26.
+
+
+Overfull \hbox (60.37932pt too wide) in paragraph at lines 26--27
+\OT1/ptm/m/n/12 (CNNs), which are es-sen-tial for ob-ject de-tec-tion. In this study of [] [[]]
+ []
+
+
+LaTeX Warning: Citation 'chandrika2020vehicle' on page 16 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'chandrika2020vehicle' on page 16 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'chandrika2020vehicle' on page 16 undefined on input line 29.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 30.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 30.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[16]
+
+LaTeX Warning: Citation 'ong2022vehicle' on page 17 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'ong2022vehicle' on page 17 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'ong2022vehicle' on page 17 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'Sanjana2021' on page 17 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'Sanjana2021' on page 17 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'Sanjana2021' on page 17 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'Espinosa2021' on page 17 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'Espinosa2021' on page 17 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'Espinosa2021' on page 17 undefined on input line 35.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 36.
@@ -1863,17 +1934,51 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[16
+[17]
 
-]
-Appendix C.
+LaTeX Warning: Citation 'rendon2023passenger' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'rendon2023passenger' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'rendon2023passenger' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'radovan2024passenger' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'radovan2024passenger' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'radovan2024passenger' on page 18 undefined on input line 40.
+
+
+Overfull \hbox (0.91771pt too wide) in paragraph at lines 40--41
+[]\OT1/ptm/m/n/12 The study of [] [[]], which in-tro-duced a com-
+ []
+
+
+Overfull \hbox (0.58507pt too wide) in paragraph at lines 40--41
+\OT1/ptm/m/n/12 [[]]. The pa-per by [] [[]]
+ []
+
+
+LaTeX Warning: Citation 'bhatt2024ai' on page 18 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'bhatt2024ai' on page 18 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'bhatt2024ai' on page 18 undefined on input line 42.
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 53.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 43.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 53.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 43.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1882,51 +1987,83 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[17
+[18]
 
-]) (vita.tex
-<figures/person-icon.png, id=217, 72.27pt x 72.27pt>
-File: figures/person-icon.png Graphic file (type png)
-<use figures/person-icon.png>
-Package pdftex.def Info: figures/person-icon.png  used on input line 10.
-(pdftex.def)             Requested size: 151.76964pt x 151.77806pt.
-File: figures/person-icon.png Graphic file (type png)
-<use figures/person-icon.png>
-Package pdftex.def Info: figures/person-icon.png  used on input line 19.
-(pdftex.def)             Requested size: 151.76964pt x 151.77806pt.
-File: figures/person-icon.png Graphic file (type png)
-<use figures/person-icon.png>
-Package pdftex.def Info: figures/person-icon.png  used on input line 28.
-(pdftex.def)             Requested size: 151.76964pt x 151.77806pt.
+LaTeX Warning: Citation 'kili2023yolo' on page 19 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'prakash2024study' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'prakash2024study' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'prakash2024study' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'karthika2024automated' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'karthika2024automated' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'karthika2024automated' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Varghese2024' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Varghese2024' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Varghese2024' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Safaldin2024' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Safaldin2024' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'Safaldin2024' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'hussain2024yolo' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'hussain2024yolo' on page 19 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'hussain2024yolo' on page 19 undefined on input line 47.
+
+
+Overfull \hbox (46.89223pt too wide) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 in terms of speed, ac-cu-racy, and adapt-abil-ity. Ac-cord-ing to [] [[]],
+ []
+
+
+Overfull \hbox (2.86304pt too wide) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 YOLO rev-o-lu-tion-ized ob-ject de-tec-tion by en-abling real-time per-for-mance through its single-
+ []
+
+
+Overfull \hbox (23.90076pt too wide) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 pass, grid-based pre-dic-tion ap-proach [[]]. Moreover,[]
+ []
+
+
+Overfull \hbox (33.41496pt too wide) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 ing its ef-fec-tive-ness across static im-ages, video streams, and live feeds [[]].
+ []
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 32.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 48.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 32.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 48.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[18
-
-
- <./figures/person-icon.png>])
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 50.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 50.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -1935,6 +2072,819 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [19]
+
+LaTeX Warning: Citation 'afzal2021helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'afzal2021helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'afzal2021helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'singh2024visual' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'singh2024visual' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'giron2020motorcycle' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'giron2020motorcycle' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'singh2024visual' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'giron2020motorcycle' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'siebert2024urban' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'siebert2024urban' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'soltanikazemi2023helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'soltanikazemi2023helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'mutyala2023helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'mutyala2023helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'tomas2023motorcycle' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'tomas2023motorcycle' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'siebert2024urban' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'soltanikazemi2023helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'mutyala2023helmet' on page 20 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'tomas2023motorcycle' on page 20 undefined on input line 52.
+
+
+Overfull \hbox (7.54468pt too wide) in paragraph at lines 52--53
+[] \OT1/ptm/m/n/12 [[]] and [] [[]] rec-
+ []
+
+
+Overfull \hbox (21.4157pt too wide) in paragraph at lines 52--53
+\OT1/ptm/m/n/12 cost hel-met de-tec-tion ap-proach, and by [] [[]]
+ []
+
+
+Overfull \hbox (21.31972pt too wide) in paragraph at lines 52--53
+\OT1/ptm/m/n/12 , whose YOLOv5-based sys-tem earned top ranks in the AI City Chal-lenge. []
+ []
+
+
+Overfull \hbox (2.4807pt too wide) in paragraph at lines 52--53
+\OT1/ptm/m/n/12 while [] [[]] high-lighted the im-por-tance of model
+ []
+
+
+Overfull \hbox (102.84634pt too wide) in paragraph at lines 52--53
+\OT1/ptm/m/n/12 op-ti-miza-tion in im-prov-ing hel-met de-tec-tion in the Philip-pines [[]], [[]],
+ []
+
+
+LaTeX Warning: Citation 'jiang2022review' on page 20 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'jiang2022review' on page 20 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'terven2022comprehensive' on page 20 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'terven2022comprehensive' on page 20 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'jiang2022review' on page 20 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'terven2022comprehensive' on page 20 undefined on input line 54.
+
+
+Overfull \hbox (70.36433pt too wide) in paragraph at lines 54--55
+\OT1/ptm/m/n/12 tems. [] [[]] and [] [[]]
+ []
+
+
+Overfull \hbox (71.43123pt too wide) in paragraph at lines 54--55
+\OT1/ptm/m/n/12 high-light-ing ar-chi-tec-tural im-prove-ments and broader ap-pli-ca-tions across var-i-ous fields [[]],
+ []
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 55.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 55.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[20]
+
+LaTeX Warning: Citation 'prakash2024study' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'prakash2024study' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'karthika2024automated' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'karthika2024automated' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'prakash2024study' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'karthika2024automated' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'Varghese2024' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'Varghese2024' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'Safaldin2024' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'Safaldin2024' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'Varghese2024' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'Safaldin2024' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'hussain2024yolo' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'c' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'hussain2024yolo' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'kumar2023vision' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'kumar2023vision' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'muhammad2024helmet' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'muhammad2024helmet' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'kumar2023vision' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'muhammad2024helmet' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'choubey2025helmet' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'choubey2025helmet' on page 21 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'choubey2025helmet' on page 21 undefined on input line 56.
+
+
+Overfull \hbox (50.7193pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 light its speed, ac-cu-racy, and adapt-abil-ity, es-pe-cially in its lat-est ver-sion, YOLOv8.[]
+ []
+
+
+Overfull \hbox (7.15973pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 [[]] em-pha-sized its real-time per-for-mance, while []
+ []
+
+
+Overfull \hbox (28.93993pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 [[]] noted its high pre-ci-sion in var-i-ous vi-sual in-puts [[]],
+ []
+
+
+Overfull \hbox (20.58939pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 [[]].[] [[]] showed im-prove-ments in YOLOv8
+ []
+
+
+Overfull \hbox (13.7844pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 through added at-ten-tion mech-a-nisms and voice recog-ni-tion, and [] [[]]
+ []
+
+
+Overfull \hbox (71.76811pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 re-ported strong per-for-mance in dy-namic en-vi-ron-ments [[]], [[]].[]
+ []
+
+
+Overfull \hbox (130.24394pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 proved per-for-mance us-ing large-kernel con-vo-lu-tions and anchor-free tech-niques [[]].[]
+ []
+
+
+Overfull \hbox (3.46477pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 [[]] and [] [[]] demon-strated
+ []
+
+
+Overfull \hbox (9.31975pt too wide) in paragraph at lines 56--57
+[] \OT1/ptm/m/n/12 [[]] em-pha-sized dataset prepa-ra-tion and multi-phase
+ []
+
+
+Overfull \hbox (24.22414pt too wide) in paragraph at lines 56--57
+\OT1/ptm/m/n/12 train-ing in de-vel-op-ing a YOLOv3 model for de-tect-ing hel-mets and plates [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'satheesh2024automated' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'satheesh2024automated' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'satheesh2024automated' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'kumar2024realtime' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'kumar2024realtime' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'sharma2024vision' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'sharma2024vision' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'kumar2024realtime' on page 21 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'sharma2024vision' on page 21 undefined on input line 58.
+
+
+Overfull \hbox (38.08026pt too wide) in paragraph at lines 58--59
+[]\OT1/ptm/m/n/12 The util-ity of OpenCV was es-tab-lished by [] [[]]
+ []
+
+
+Overfull \hbox (14.02293pt too wide) in paragraph at lines 58--59
+\OT1/ptm/m/n/12 bil-ity in cre-at-ing cost-effective and scal-able safety mon-i-tor-ing sys-tems. [[]]
+ []
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 60.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 60.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[21]
+
+LaTeX Warning: Citation 'Espinosa2021' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'Espinosa2021' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'Sanjana2021' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'Sanjana2021' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'Espinosa2021' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'Sanjana2021' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'ong2022vehicle' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'ong2022vehicle' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'chandrika2020vehicle' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'chandrika2020vehicle' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'ong2022vehicle' on page 22 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'chandrika2020vehicle' on page 22 undefined on input line 60.
+
+
+Overfull \hbox (86.21623pt too wide) in paragraph at lines 60--61
+\OT1/ptm/m/n/12 show YOLOv5's su-pe-rior ac-cu-racy over Faster R-CNN, and [] [[]]
+ []
+
+
+LaTeX Warning: Citation 'rendon2023passenger' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'rendon2023passenger' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'rendon2023passenger' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'radovan2024passenger' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'radovan2024passenger' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'radovan2024passenger' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'bhatt2024ai' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'bhatt2024ai' on page 22 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'bhatt2024ai' on page 22 undefined on input line 62.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 68.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 68.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[22]
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 75.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 75.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[23]
+
+LaTeX Warning: Empty bibliography on input line 77.
+
+Package biblatex Info: Reference section=0 on input line 78.
+) (chapters/chapter3.tex
+Chapter 3.
+\blx@maxsegment@3=\count505
+\blx@sectionciteorder@3=\count506
+Package biblatex Info: Reference section=3 on input line 2.
+Package biblatex Info: Setting label 'refsection:3' on input line 2.
+
+LaTeX Warning: Citation 'Lassenius2001' on page 24 undefined on input line 9.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 13.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 13.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[24
+
+
+]
+
+LaTeX Warning: Citation 'Muhammad2024' on page 25 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Muhammad2024' on page 25 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Muhammad2024' on page 25 undefined on input line 21.
+
+
+Overfull \hbox (50.62474pt too wide) in paragraph at lines 21--23
+\OT1/ptm/m/n/12 ing a 91.1% F1 score for hel-met de-tec-tion and 81.7 % ac-cu-racy for rider de-tec-tion [[]].
+ []
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[25]
+<figures/Fig 1.png, id=183, 1155.31625pt x 372.39125pt>
+File: figures/Fig 1.png Graphic file (type png)
+<use figures/Fig 1.png>
+Package pdftex.def Info: figures/Fig 1.png  used on input line 26.
+(pdftex.def)             Requested size: 433.62001pt x 139.7657pt.
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 42.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 42.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[26 <./figures/Fig 1.png>]
+chapters/chapter3.tex:53: Extra }, or forgotten \endgroup.
+l.53 ...{Complete Intersection over Union (CIoU)}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+<figures/Fig 2.jpg, id=190, 2055.68pt x 1156.32pt>
+File: figures/Fig 2.jpg Graphic file (type jpg)
+<use figures/Fig 2.jpg>
+Package pdftex.def Info: figures/Fig 2.jpg  used on input line 61.
+(pdftex.def)             Requested size: 433.62001pt x 243.91064pt.
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 64.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 64.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[27]
+
+LaTeX Warning: Citation 'Terven2023' on page 28 undefined on input line 66.
+
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 75.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 75.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[28 <./figures/Fig 2.jpg>]
+<figures/Fig 3.jpg, id=206, 2055.68pt x 949.5475pt>
+File: figures/Fig 3.jpg Graphic file (type jpg)
+<use figures/Fig 3.jpg>
+Package pdftex.def Info: figures/Fig 3.jpg  used on input line 78.
+(pdftex.def)             Requested size: 433.62001pt x 200.29468pt.
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 84.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 84.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[29 <./figures/Fig 3.jpg>]
+
+LaTeX Warning: Citation 'ThePythonCode2021' on page 30 undefined on input line 84.
+
+)
+Runaway argument?
+{ \begin {tabular}{c p{4cm} p{4cm} p{4cm}} \hline \textbf {Test Case}\ETC.
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:44: File ended while scanning use of \Gscale@box@dd.
+<inserted text> 
+                \par 
+l.44     \input{chapters/chapter3}
+                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(chapters/chapter4.tex
+Chapter 4.
+
+chapters/chapter4.tex:3: Package biblatex Error: Nested 'refsection' environment.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{refsection}
+                      
+This environment may not be nested.
+
+\blx@maxsegment@4=\count507
+\blx@sectionciteorder@4=\count508
+Package biblatex Info: Reference section=4 on input line 3.
+Package biblatex Info: Setting label 'refsection:4' on input line 3.
+
+chapters/chapter4.tex:5: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{figure}[ht]
+                      
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `figures/sampleFig1.jpg' not found on input line 7.
+
+
+chapters/chapter4.tex:7: Package pdftex.def Error: File `figures/sampleFig1.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...dth=0.85\textwidth]{figures/sampleFig1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7.
+(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+LaTeX Warning: Empty bibliography on input line 21.
+
+Package biblatex Info: Reference section=0 on input line 22.
+) (chapters/chapter5.tex
+Chapter 5.
+\blx@maxsegment@5=\count509
+\blx@sectionciteorder@5=\count510
+Package biblatex Info: Reference section=5 on input line 3.
+Package biblatex Info: Setting label 'refsection:5' on input line 3.
+
+chapters/chapter5.tex:7: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{figure}[ht]
+                      
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `figures/sampleFig1.jpg' not found on input line 9.
+
+
+chapters/chapter5.tex:9: Package pdftex.def Error: File `figures/sampleFig1.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...dth=0.85\textwidth]{figures/sampleFig1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Empty bibliography on input line 19.
+
+Package biblatex Info: Reference section=0 on input line 20.
+)
+
+Package biblatex Warning: Type 'book' not found on input line 47.
+
+
+LaTeX Warning: Empty bibliography on input line 47.
+
+
+Package biblatex Warning: Type 'article' not found on input line 47.
+
+
+LaTeX Warning: Empty bibliography on input line 47.
+
+
+Package biblatex Warning: Type 'proceedings' not found on input line 47.
+
+
+LaTeX Warning: Empty bibliography on input line 47.
+
+
+Package biblatex Warning: Type 'online' not found on input line 47.
+
+
+LaTeX Warning: Empty bibliography on input line 47.
+
+
+Package biblatex Warning: Type 'unpublished' not found on input line 47.
+
+
+LaTeX Warning: Empty bibliography on input line 47.
+
+
+LaTeX Warning: Empty bibliography on input line 47.
+
+(chapters/appendix.tex
+Appendix A.
+Appendix B.
+Appendix C.
+) (vita.tex
+
+vita.tex:8: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8     \begin{figure}[ht]
+                          
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `figures/person-icon.png' not found on input line 10.
+
+
+vita.tex:10: Package pdftex.def Error: File `figures/person-icon.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...h=0.35\textwidth]{figures/person-icon.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+vita.tex:17: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17     \begin{figure}[ht]
+                           
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `figures/person-icon.png' not found on input line 19.
+
+
+vita.tex:19: Package pdftex.def Error: File `figures/person-icon.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...h=0.35\textwidth]{figures/person-icon.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+vita.tex:26: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     \begin{figure}[ht]
+                           
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `figures/person-icon.png' not found on input line 28.
+
+
+vita.tex:28: Package pdftex.def Error: File `figures/person-icon.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...h=0.35\textwidth]{figures/person-icon.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{table} on input line 95 ended by \end{thesisbody}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \end{thesisbody}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{thesisbody}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -1945,6 +2895,19 @@ Package lastpage Warning: Rerun to get the references right on input line 52.
 
 
 AED: lastpage setting LastPage
+
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{table} on input line 95 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 (thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -1965,22 +2928,53 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
- ) 
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: You can't use `\end' in internal vertical mode.
+\enddocument ...cument/end}\deadcycles \z@ \@@end 
+                                                  
+l.52 \end{document}
+                   
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{table} on input line 95 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: Missing } inserted.
+<inserted text> 
+                }
+l.52 \end{document}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> ...(Helmet)/CCS Thesis Template-v2/thesis.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 33142 strings out of 474486
- 687794 string characters out of 5743756
- 1937542 words of memory out of 5000000
- 54909 multiletter control sequences out of 15000+600000
- 580035 words of font info for 75 fonts, out of 8000000 for 9000
+ 33068 strings out of 474486
+ 684950 string characters out of 5743756
+ 1936542 words of memory out of 5000000
+ 54847 multiletter control sequences out of 15000+600000
+ 572660 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,15n,104p,2641b,2165s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{glo:starlabs} has been referenced but does not exist, replaced by a fixed one
-
-<C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (28 pages, 783140 bytes).
-PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 93i,16n,104p,2641b,1632s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
