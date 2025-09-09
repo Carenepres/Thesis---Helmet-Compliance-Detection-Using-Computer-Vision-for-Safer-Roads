@@ -2609,6 +2609,12 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
+    <bcf:citekey order="1" intorder="1">Lassenius2001</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Muhammad2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Muhammad2024</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Muhammad2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Terven2023</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">ThePythonCode2021</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2675,15 +2681,6 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="2"
-                name="anyt/global//global/global"
-                type="entry"
-                sortingtemplatename="anyt"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="3"
                 name="anyt/global//global/global"
                 type="entry"
                 sortingtemplatename="anyt"
