@@ -1054,6 +1054,46 @@
       \verb https://link.springer.com/chapter/10.1007/978-3-031-64650-8_36
       \endverb
     \endentry
+    \entry{Lassenius2001}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=65e0422464edb889c80ecec1c9051218}{%
+           family={Lassenius},
+           familyi={L\bibinitperiod},
+           given={Casper},
+           giveni={C\bibinitperiod}}}%
+        {{hash=99c7d0ad65b2e9e61f5d398680d8e8ee}{%
+           family={Soininen},
+           familyi={S\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bdae763666618ff0fe362958437a3c2c}{%
+           family={Vanhanen},
+           familyi={V\bibinitperiod},
+           given={Jari},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f794899bff45e3d02835bcde383c878}
+      \strng{fullhash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \strng{bibnamehash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \strng{authorbibnamehash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \strng{authornamehash}{6f794899bff45e3d02835bcde383c878}
+      \strng{authorfullhash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 26th Information Systems Research Seminar in Scandinavia (IRIS 26)}
+      \field{note}{Accessed: 2025-04-22}
+      \field{title}{Constructive Research}
+      \field{year}{2001}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.pm.lth.se/fileadmin/_migrated/content_uploads/3._constructive_research.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.pm.lth.se/fileadmin/_migrated/content_uploads/3._constructive_research.pdf
+      \endverb
+    \endentry
     \entry{Maddi2023}{article}{}
       \name{author}{1}{}{%
         {{hash=c475760cb7e5df3cabb8ccdd85d3c90b}{%
@@ -1178,6 +1218,7 @@
       \strng{authorbibnamehash}{145b31218d142fe32f111aca5e81c5ec}
       \strng{authornamehash}{ab9068888ff2ee2f597f03f999fb27e6}
       \strng{authorfullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -1188,6 +1229,62 @@
       \true{nocite}
       \field{pages}{1\bibrangedash 7}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICIEE63403.2024.10920426
+      \endverb
+    \endentry
+    \entry{Muhammad2024}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=939da821f5be8522f16c3d764d06a972}{%
+           family={Muhammad},
+           familyi={M\bibinitperiod},
+           given={Fadil},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1ceb94a9ffc8b54fe94d620067bd1195}{%
+           family={Bintang},
+           familyi={B\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod}}}%
+        {{hash=45a202a8b6dd15c2459621165be4926f}{%
+           family={Fahrizal},
+           familyi={F\bibinitperiod},
+           given={Rian},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f28984f602611c9a164b346e5b3beba6}{%
+           family={Ahendyarti},
+           familyi={A\bibinitperiod},
+           given={Ceri},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0ef6aa0e833b500afa85499ed3144b95}{%
+           family={Wiryadinata},
+           familyi={W\bibinitperiod},
+           given={Romi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5609e29857f31bf3c41e4810884bfdf7}{%
+           family={Muttakin},
+           familyi={M\bibinitperiod},
+           given={Imamul},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ab9068888ff2ee2f597f03f999fb27e6}
+      \strng{fullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{bibnamehash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{authorbibnamehash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{authornamehash}{ab9068888ff2ee2f597f03f999fb27e6}
+      \strng{authorfullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2024 International Conference on Informatics Electrical and Electronics (ICIEE)}
+      \field{month}{12}
+      \field{title}{Real-Time Motorcyclist Helmet Detection using YOLOv8 on Edge Device}
+      \field{year}{2024}
+      \true{nocite}
       \verb{doi}
       \verb 10.1109/ICIEE63403.2024.10920426
       \endverb
@@ -1935,6 +2032,7 @@
       \strng{authorbibnamehash}{48956cf27f42e7a960d148f7da00585f}
       \strng{authornamehash}{d2357a00ef7339c4fa13e33bd2802fa2}
       \strng{authorfullhash}{48956cf27f42e7a960d148f7da00585f}
+      \field{extraname}{1}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -1952,6 +2050,48 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2504-4990/5/4/83
+      \endverb
+    \endentry
+    \entry{Terven2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=93e141b5d802e4e01a6e89c21fe987f0}{%
+           family={Terven},
+           familyi={T\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dfa25f6c7070c0fc0f4f68c633c24955}{%
+           family={Córdova-Esparza},
+           familyi={C\bibinithyphendelim E\bibinitperiod},
+           given={Diana-Margarita},
+           giveni={D\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=b6e0367bb1f1adda5538e853e1f7b906}{%
+           family={Romero-González},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Julio-Alejandro},
+           giveni={J\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2357a00ef7339c4fa13e33bd2802fa2}
+      \strng{fullhash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{bibnamehash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{authorbibnamehash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{authornamehash}{d2357a00ef7339c4fa13e33bd2802fa2}
+      \strng{authorfullhash}{48956cf27f42e7a960d148f7da00585f}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning and Knowledge Extraction}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS}
+      \field{volume}{5}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1680\bibrangedash 1716}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.3390/make5040083
       \endverb
     \endentry
     \entry{Thakur2024}{misc}{}
@@ -1982,6 +2122,28 @@
       \verb{url}
       \verb https://medium.com/@vkt08/enhancing-safety-a-computer-vision-approach-to-helmet-detection-c5a48a7275d2
       \endverb
+    \endentry
+    \entry{ThePythonCode2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6f2a1bd19199d63523a74bd5eb70d57b}{%
+           family={{ThePythonCode}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{fullhash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{bibnamehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{authorbibnamehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{authornamehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{authorfullhash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://thepythoncode.com/article/non-maximum-suppression-using-opencv-in-python}}
+      \field{note}{Accessed: 2025-04-22}
+      \field{title}{Non-Maximum Suppression using OpenCV in Python}
+      \field{year}{2021}
+      \true{nocite}
     \endentry
     \entry{Tian2019}{inproceedings}{}
       \name{author}{4}{}{%
@@ -4154,11 +4316,166 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Soltanikazemi}
-  \missing{bhatt2024ai [\citeyear {bhatt2024ai}]}
   \missing{c}
-  \missing{chandrika2019vehicle}
-  \missing{sharma2024vision [\citeyear {sharma2024vision}]}
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Lassenius2001}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=65e0422464edb889c80ecec1c9051218}{%
+           family={Lassenius},
+           familyi={L\bibinitperiod},
+           given={Casper},
+           giveni={C\bibinitperiod}}}%
+        {{hash=99c7d0ad65b2e9e61f5d398680d8e8ee}{%
+           family={Soininen},
+           familyi={S\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bdae763666618ff0fe362958437a3c2c}{%
+           family={Vanhanen},
+           familyi={V\bibinitperiod},
+           given={Jari},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f794899bff45e3d02835bcde383c878}
+      \strng{fullhash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \strng{bibnamehash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \strng{authorbibnamehash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \strng{authornamehash}{6f794899bff45e3d02835bcde383c878}
+      \strng{authorfullhash}{43110ab19af88ac0d6d46ee06a05b8da}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 26th Information Systems Research Seminar in Scandinavia (IRIS 26)}
+      \field{note}{Accessed: 2025-04-22}
+      \field{title}{Constructive Research}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://www.pm.lth.se/fileadmin/_migrated/content_uploads/3._constructive_research.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.pm.lth.se/fileadmin/_migrated/content_uploads/3._constructive_research.pdf
+      \endverb
+    \endentry
+    \entry{Muhammad2024}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=939da821f5be8522f16c3d764d06a972}{%
+           family={Muhammad},
+           familyi={M\bibinitperiod},
+           given={Fadil},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1ceb94a9ffc8b54fe94d620067bd1195}{%
+           family={Bintang},
+           familyi={B\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod}}}%
+        {{hash=45a202a8b6dd15c2459621165be4926f}{%
+           family={Fahrizal},
+           familyi={F\bibinitperiod},
+           given={Rian},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f28984f602611c9a164b346e5b3beba6}{%
+           family={Ahendyarti},
+           familyi={A\bibinitperiod},
+           given={Ceri},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0ef6aa0e833b500afa85499ed3144b95}{%
+           family={Wiryadinata},
+           familyi={W\bibinitperiod},
+           given={Romi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5609e29857f31bf3c41e4810884bfdf7}{%
+           family={Muttakin},
+           familyi={M\bibinitperiod},
+           given={Imamul},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ab9068888ff2ee2f597f03f999fb27e6}
+      \strng{fullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{bibnamehash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{authorbibnamehash}{145b31218d142fe32f111aca5e81c5ec}
+      \strng{authornamehash}{ab9068888ff2ee2f597f03f999fb27e6}
+      \strng{authorfullhash}{145b31218d142fe32f111aca5e81c5ec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2024 International Conference on Informatics Electrical and Electronics (ICIEE)}
+      \field{month}{12}
+      \field{title}{Real-Time Motorcyclist Helmet Detection using YOLOv8 on Edge Device}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1109/ICIEE63403.2024.10920426
+      \endverb
+    \endentry
+    \entry{Terven2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=93e141b5d802e4e01a6e89c21fe987f0}{%
+           family={Terven},
+           familyi={T\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dfa25f6c7070c0fc0f4f68c633c24955}{%
+           family={Córdova-Esparza},
+           familyi={C\bibinithyphendelim E\bibinitperiod},
+           given={Diana-Margarita},
+           giveni={D\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=b6e0367bb1f1adda5538e853e1f7b906}{%
+           family={Romero-González},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Julio-Alejandro},
+           giveni={J\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2357a00ef7339c4fa13e33bd2802fa2}
+      \strng{fullhash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{bibnamehash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{authorbibnamehash}{48956cf27f42e7a960d148f7da00585f}
+      \strng{authornamehash}{d2357a00ef7339c4fa13e33bd2802fa2}
+      \strng{authorfullhash}{48956cf27f42e7a960d148f7da00585f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning and Knowledge Extraction}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{pages}{1680\bibrangedash 1716}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.3390/make5040083
+      \endverb
+    \endentry
+    \entry{ThePythonCode2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6f2a1bd19199d63523a74bd5eb70d57b}{%
+           family={{ThePythonCode}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{fullhash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{bibnamehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{authorbibnamehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{authornamehash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \strng{authorfullhash}{6f2a1bd19199d63523a74bd5eb70d57b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://thepythoncode.com/article/non-maximum-suppression-using-opencv-in-python}}
+      \field{note}{Accessed: 2025-04-22}
+      \field{title}{Non-Maximum Suppression using OpenCV in Python}
+      \field{year}{2021}
+    \endentry
+  \enddatalist
 \endrefsection
 \endinput
 
