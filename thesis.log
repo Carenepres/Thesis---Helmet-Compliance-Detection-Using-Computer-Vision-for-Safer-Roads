@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  9 SEP 2025 23:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  10 SEP 2025 00:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1899,11 +1899,11 @@ Package biblatex Info: Reference section=0 on input line 78.
 ) (chapters/chapter3.tex
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 1.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 1.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 2.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1917,15 +1917,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 Chapter 3.
 \blx@maxsegment@3=\count505
 \blx@sectionciteorder@3=\count506
-Package biblatex Info: Reference section=3 on input line 2.
-Package biblatex Info: Setting label 'refsection:3' on input line 2.
+Package biblatex Info: Reference section=3 on input line 3.
+Package biblatex Info: Setting label 'refsection:3' on input line 3.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 13.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 17.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 13.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 17.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1939,11 +1939,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 ]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 31.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 31.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1957,15 +1957,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <figures/Fig 1.png, id=420, 1155.31625pt x 372.39125pt>
 File: figures/Fig 1.png Graphic file (type png)
 <use figures/Fig 1.png>
-Package pdftex.def Info: figures/Fig 1.png  used on input line 26.
+Package pdftex.def Info: figures/Fig 1.png  used on input line 35.
 (pdftex.def)             Requested size: 433.62001pt x 139.7657pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 42.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 58.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 42.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 58.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -1976,8 +1976,8 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [32 <./figures/Fig 1.png>]
-chapters/chapter3.tex:53: Extra }, or forgotten \endgroup.
-l.53 ...{Complete Intersection over Union (CIoU)}}
+chapters/chapter3.tex:73: Extra }, or forgotten \endgroup.
+l.73 ...{Complete Intersection over Union (CIoU)}}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1988,15 +1988,15 @@ deleted material, e.g., by typing `I$}'.
 <figures/Fig 2.jpg, id=428, 2055.68pt x 1156.32pt>
 File: figures/Fig 2.jpg Graphic file (type jpg)
 <use figures/Fig 2.jpg>
-Package pdftex.def Info: figures/Fig 2.jpg  used on input line 61.
+Package pdftex.def Info: figures/Fig 2.jpg  used on input line 84.
 (pdftex.def)             Requested size: 433.62001pt x 243.91064pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 64.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 87.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 64.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 87.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2008,11 +2008,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [33]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 75.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 103.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 75.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 103.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2026,15 +2026,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <figures/Fig 3.jpg, id=446, 2055.68pt x 949.5475pt>
 File: figures/Fig 3.jpg Graphic file (type jpg)
 <use figures/Fig 3.jpg>
-Package pdftex.def Info: figures/Fig 3.jpg  used on input line 78.
+Package pdftex.def Info: figures/Fig 3.jpg  used on input line 107.
 (pdftex.def)             Requested size: 433.62001pt x 200.29468pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 84.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 114.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 84.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 114.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2317,7 +2317,7 @@ If that doesn't work, type  X <return>  to quit.
 
 )
 
-c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{table} on input line 95 ended by \end{thesisbody}.
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{table} on input line 130 ended by \end{thesisbody}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2351,7 +2351,7 @@ Package lastpage Warning: Rerun to get the references right on input line 52.
 
 AED: lastpage setting LastPage
 
-c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{table} on input line 95 ended by \end{document}.
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{table} on input line 130 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2394,7 +2394,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{table} on input line 95 ended by \end{document}.
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{table} on input line 130 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
