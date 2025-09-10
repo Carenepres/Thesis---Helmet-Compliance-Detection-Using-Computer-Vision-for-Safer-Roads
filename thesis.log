@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  10 SEP 2025 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  10 SEP 2025 20:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -985,7 +985,8 @@ Package color Info: Driver file: pdftex.def on input line 149.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 26.
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (thesis.aux)
+)
+No file thesis.aux.
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -1006,7 +1007,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
- (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count496
 \scratchdimen=\dimen295
@@ -2188,13 +2189,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-chapters/chapter3.tex:227: LaTeX Error: There's no line here to end.
+chapters/chapter3.tex:226: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 T
+l.226 T
        he collected data were processed using OpenCV to resize frames, enhan...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2202,11 +2203,11 @@ or  <return>  to continue without it.
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 228.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 227.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 228.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 227.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2217,65 +2218,52 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [40 <./figures/Fig 4c.jpg> <./figures/Fig 4d.jpg>]
 
-chapters/chapter3.tex:231: LaTeX Error: There's no line here to end.
+chapters/chapter3.tex:229: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231 T
+l.229 T
        he YOLOv8 model was trained using labeled data to identify whether th...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-chapters/chapter3.tex:234: LaTeX Error: There's no line here to end.
+chapters/chapter3.tex:232: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.234 
-      
+l.232 A
+       s vehicles pass through the camera, the system first filters and dete...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-chapters/chapter3.tex:239: LaTeX Error: There's no line here to end.
+chapters/chapter3.tex:235: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.239 O
+l.235 O
        nce a target vehicle is identified as a motorcycle, the system procee...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-chapters/chapter3.tex:242: LaTeX Error: There's no line here to end.
+chapters/chapter3.tex:241: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.242 A
-       ll detection processes run in real time, ensuring continuous monitori...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-chapters/chapter3.tex:245: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.245 I
+l.241 I
        f any person on the motorcycle (rider or passenger) is detected witho...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2284,15 +2272,15 @@ or  <return>  to continue without it.
 <figures/Fig 5.jpg, id=484, 2055.68pt x 1206.5075pt>
 File: figures/Fig 5.jpg Graphic file (type jpg)
 <use figures/Fig 5.jpg>
-Package pdftex.def Info: figures/Fig 5.jpg  used on input line 250.
+Package pdftex.def Info: figures/Fig 5.jpg  used on input line 246.
 (pdftex.def)             Requested size: 390.25536pt x 229.0363pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 253.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 249.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 253.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 249.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2304,11 +2292,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [41]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 270.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 266.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 270.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 266.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2321,11 +2309,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [42 <./figures/Fig 5.jpg>]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 294.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 290.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 294.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 290.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2337,46 +2325,46 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [43]
 
-chapters/chapter3.tex:304: LaTeX Error: Lonely \item--perhaps a missing list environment.
+chapters/chapter3.tex:300: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.304     \item \textbf
+l.300     \item \textbf
                        {Precision:}  Precision measures the ability of the s...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 304
+Underfull \hbox (badness 10000) detected at line 300
 [][]
  []
 
 
-chapters/chapter3.tex:316: LaTeX Error: Lonely \item--perhaps a missing list environment.
+chapters/chapter3.tex:312: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.316     \item \textbf
+l.312     \item \textbf
                        {Recall:}  Recall evaluates the ability of the system...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 316
+Underfull \hbox (badness 10000) detected at line 312
 [][]
  []
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 323.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 319.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 323.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 319.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2387,30 +2375,30 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [44]
 
-chapters/chapter3.tex:328: LaTeX Error: Lonely \item--perhaps a missing list environment.
+chapters/chapter3.tex:324: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328     \item \textbf
+l.324     \item \textbf
                        {F1-Score:}  The F1-Score is the harmonic mean of pre...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 328
+Underfull \hbox (badness 10000) detected at line 324
 [][]
  []
 
 
-chapters/chapter3.tex:333: LaTeX Error: \begin{refsection} on input line 3 ended by \end{itemize}.
+chapters/chapter3.tex:329: LaTeX Error: \begin{refsection} on input line 3 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.333 \end{itemize}
+l.329 \end{itemize}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2418,11 +2406,11 @@ or  <return>  to continue without it.
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 358.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 354.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 358.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 354.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2433,62 +2421,62 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [45]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 383.
+LaTeX Font Warning: Command \large invalid in math mode on input line 379.
 
-LaTeX Font Info:    Calculating math sizes for size <> on input line 385.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 381.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 385.
+(Font)              size <5> substituted on input line 381.
 
 
-Overfull \hbox (1.23097pt too wide) in paragraph at lines 391--392
+Overfull \hbox (1.23097pt too wide) in paragraph at lines 387--388
 \OT1/ptm/m/n/12 Law En-force-ment The-ory, Surveil-lance The-ory, and Real-Time Em-bed-ded Sys-
  []
 
 <figures/Fig 6.jpg, id=520, 2055.68pt x 1158.3275pt>
 File: figures/Fig 6.jpg Graphic file (type jpg)
 <use figures/Fig 6.jpg>
-Package pdftex.def Info: figures/Fig 6.jpg  used on input line 396.
+Package pdftex.def Info: figures/Fig 6.jpg  used on input line 392.
 (pdftex.def)             Requested size: 390.25536pt x 219.89009pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 400.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 396.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 400.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 396.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2500,11 +2488,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [46]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 408.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 404.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 408.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 404.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2517,11 +2505,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [47 <./figures/Fig 6.jpg>]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 425.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 421.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 425.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 421.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2532,19 +2520,19 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [48]
-Overfull \hbox (4.18996pt too wide) in paragraph at lines 428--428
+Overfull \hbox (4.18996pt too wide) in paragraph at lines 424--424
 []\OT1/ptm/m/n/10 Juan Ter-ven, Diana-Margarita C[]ordova-Esparza, and Julio-Alejandro Romero-Gonz[]alez.
  []
 
-Package biblatex Info: Reference section=0 on input line 429.
+Package biblatex Info: Reference section=0 on input line 425.
 
-chapters/chapter3.tex:429: LaTeX Error: \begin{itemize} on input line 363 ended by \end{refsection}.
+chapters/chapter3.tex:425: LaTeX Error: \begin{itemize} on input line 359 ended by \end{refsection}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.429 \end{refsection}
+l.425 \end{refsection}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2985,7 +2973,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [62]
 
-c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{itemize} on input line 341 ended by \end{thesisbody}.
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{itemize} on input line 337 ended by \end{thesisbody}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -3050,15 +3038,15 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### semi simple group (level 1) entered at line 41 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33837 strings out of 474486
- 708262 string characters out of 5743756
- 1990542 words of memory out of 5000000
- 55427 multiletter control sequences out of 15000+600000
+ 33834 strings out of 474486
+ 708139 string characters out of 5743756
+ 1989542 words of memory out of 5000000
+ 55426 multiletter control sequences out of 15000+600000
  590306 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,16n,104p,2641b,2617s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (71 pages, 3101170 bytes).
+Output written on thesis.pdf (71 pages, 3101175 bytes).
 PDF statistics:
  966 PDF objects out of 1000 (max. 8388607)
  255 named destinations out of 1000 (max. 500000)

@@ -284,9 +284,6 @@ INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT .\thesis.aux
-INPUT .\thesis.aux
-INPUT thesis.aux
 OUTPUT thesis.aux
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii

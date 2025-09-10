@@ -222,23 +222,19 @@ Additionally, a separate Vehicle Filtering Dataset is used, which contains a sin
 \subsection{Data Collection} \\
 Video footage is live along the Nabua Highway under various traffic and lighting conditions to capture real-world motorcycle scenarios. These videos serve as the primary input for detecting helmet usage.
 
-
 \subsection {Data Preprocessing} \\
 The collected data were processed using OpenCV to resize frames, enhance image quality, and normalize the input. This step ensures that the data is clean and ready for analysis by the detection model.
-
 
 \subsection {Model Training} \\
 The YOLOv8 model was trained using labeled data to identify whether the rider and pas- senger are wearing helmets. The model was tested with a separate dataset to ensure its accuracy in helmet detection.
 
 \subsection {Vehicle Filtering} \\
-
 As vehicles pass through the camera, the system first filters and detects whether the vehicle is a motorcycle. Only motorcycles are analyzed for helmet compliance.
-
 
 \subsection {Helmet Detection} \\
 Once a target vehicle is identified as a motorcycle, the system proceeds to detect whether the rider is wearing a helmet. If a passenger is also detected, the system checks whether the passenger is wearing a helmet or merely holding one or with wrong helmet use.
 
-\subsection {Real-time Monitoring} \\
+\subsection{Real-Time Monitoring}
 All detection processes run in real time, ensuring continuous monitoring and immediate feedback on helmet law compliance.
 
 \subsection {Real-time Violation Alert} \\
