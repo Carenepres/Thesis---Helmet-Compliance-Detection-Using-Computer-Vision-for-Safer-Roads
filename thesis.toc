@@ -30,7 +30,7 @@
 \contentsline {subsection}{Model Training}{41}{subsection*.30}%
 \contentsline {subsection}{Vehicle Filtering}{41}{subsection*.31}%
 \contentsline {subsection}{Helmet Detection}{41}{subsection*.32}%
-\contentsline {subsection}{Real-Time Monitoring}{41}{subsection*.33}%
+\contentsline {subsection}{Real-time Monitoring}{41}{subsection*.33}%
 \contentsline {subsection}{Real-time Violation Alert}{41}{subsection*.34}%
 \contentsline {subsection}{Computer Vision Theory}{47}{subsection*.38}%
 \contentsline {subsection}{Automated Law Enforcement Theory}{48}{subsection*.39}%
