@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  16 SEP 2025 14:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.4)  17 SEP 2025 00:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1527,7 +1527,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [8]
 
-LaTeX Warning: Citation 'Deng2009' on page 9 undefined on input line 80.
+LaTeX Warning: Citation 'Deng2020' on page 9 undefined on input line 80.
 
 
 Overfull \hbox (0.4627pt too wide) in paragraph at lines 80--81
@@ -2054,46 +2054,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [35 <./figures/Fig 3.jpg>]
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 136.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 136.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 136.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 136.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
-[]|\OT1/ptm/b/n/11 Test
- []
-
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 147.
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-[]|\OT1/ptm/m/n/11 3 per-sons de-tected with
- []
-
-
-Overfull \hbox (55.39769pt too wide) in paragraph at lines 136--153
- [][] 
- []
-
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 154.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 129.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 154.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 129.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -2102,17 +2071,26 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [36]
-Overfull \vbox (37.77698pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[]|\OT1/ptm/b/n/12 Test
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[]|\OT1/ptm/m/n/12 Overloading vi-o-la-tion
+ []
+
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 153.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 154.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 160.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 154.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 160.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -2123,11 +2101,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [37]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 168.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 171.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 168.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 171.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2142,29 +2120,34 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 File: figures/Fig 4a.jpg Graphic file (type jpg)
 <use figures/Fig 4a.jpg>
 Package pdftex.def Info: figures/Fig 4a.jpg  used on input line 178.
-(pdftex.def)             Requested size: 195.12767pt x 146.5181pt.
+(pdftex.def)             Requested size: 117.07779pt x 87.91086pt.
 <figures/Fig 4b.jpg, id=469, 2055.68pt x 1656.1875pt>
 File: figures/Fig 4b.jpg Graphic file (type jpg)
 <use figures/Fig 4b.jpg>
 Package pdftex.def Info: figures/Fig 4b.jpg  used on input line 185.
-(pdftex.def)             Requested size: 195.12767pt x 157.18782pt.
+(pdftex.def)             Requested size: 117.07779pt x 94.31268pt.
 <figures/Fig 4c.jpg, id=470, 2055.68pt x 1684.2925pt>
 File: figures/Fig 4c.jpg Graphic file (type jpg)
 <use figures/Fig 4c.jpg>
-Package pdftex.def Info: figures/Fig 4c.jpg  used on input line 197.
-(pdftex.def)             Requested size: 195.12767pt x 159.85524pt.
+Package pdftex.def Info: figures/Fig 4c.jpg  used on input line 193.
+(pdftex.def)             Requested size: 117.07779pt x 95.91315pt.
 <figures/Fig 4d.jpg, id=471, 2055.68pt x 1624.0675pt>
 File: figures/Fig 4d.jpg Graphic file (type jpg)
 <use figures/Fig 4d.jpg>
-Package pdftex.def Info: figures/Fig 4d.jpg  used on input line 204.
-(pdftex.def)             Requested size: 195.12767pt x 154.13933pt.
+Package pdftex.def Info: figures/Fig 4d.jpg  used on input line 200.
+(pdftex.def)             Requested size: 117.07779pt x 92.4836pt.
+<figures/Fig 4e.jpg, id=472, 481.8pt x 481.8pt>
+File: figures/Fig 4e.jpg Graphic file (type jpg)
+<use figures/Fig 4e.jpg>
+Package pdftex.def Info: figures/Fig 4e.jpg  used on input line 207.
+(pdftex.def)             Requested size: 117.07779pt x 117.07529pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 211.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 219.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 211.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 219.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2174,20 +2157,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[39 <./figures/Fig 4a.jpg> <./figures/Fig 4b.jpg>]
-
-chapters/chapter3.tex:223: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.223 V
-       ideo footage is live along the Nabua Highway under various traffic an...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+[39 <./figures/Fig 4a.jpg> <./figures/Fig 4b.jpg> <./figures/Fig 4c.jpg> <./figures/Fig 4d.jpg> <./figures/Fig 4e.jpg>]
 
 chapters/chapter3.tex:226: LaTeX Error: There's no line here to end.
 
@@ -2195,28 +2165,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.226 T
-       he collected data were processed using OpenCV to resize frames, enhan...
+l.226 V
+       ideo footage is live along the Nabua Highway under various traffic an...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 227.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 227.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[40 <./figures/Fig 4c.jpg> <./figures/Fig 4d.jpg>]
 
 chapters/chapter3.tex:229: LaTeX Error: There's no line here to end.
 
@@ -2225,7 +2179,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.229 T
-       he YOLOv8 model was trained using labeled data to identify whether th...
+       he collected data were processed using OpenCV to resize frames, enhan...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -2237,8 +2191,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232 A
-       s vehicles pass through the camera, the system first filters and dete...
+l.232 T
+       he YOLOv8 model was trained using labeled data to identify whether th...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -2250,12 +2204,28 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.235 O
-       nce a target vehicle is identified as a motorcycle, the system procee...
+l.235 A
+       s vehicles pass through the camera, the system first filters and dete...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 237.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 237.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[40]
 
 chapters/chapter3.tex:238: LaTeX Error: There's no line here to end.
 
@@ -2263,8 +2233,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.238 A
-       ll detection processes run in real time, ensuring continuous monitori...
+l.238 O
+       nce a target vehicle is identified as a motorcycle, the system procee...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -2276,24 +2246,37 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.241 I
+l.241 A
+       ll detection processes run in real time, ensuring continuous monitori...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+chapters/chapter3.tex:244: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 I
        f any person on the motorcycle (rider or passenger) is detected witho...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<figures/Fig 5.jpg, id=484, 2055.68pt x 1206.5075pt>
+<figures/Fig 5.jpg, id=486, 2055.68pt x 1206.5075pt>
 File: figures/Fig 5.jpg Graphic file (type jpg)
 <use figures/Fig 5.jpg>
-Package pdftex.def Info: figures/Fig 5.jpg  used on input line 246.
-(pdftex.def)             Requested size: 390.25536pt x 229.0363pt.
+Package pdftex.def Info: figures/Fig 5.jpg  used on input line 249.
+(pdftex.def)             Requested size: 303.53267pt x 178.13321pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 249.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 256.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 249.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 256.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2302,14 +2285,14 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[41]
+[41 <./figures/Fig 5.jpg>]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 266.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 280.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 266.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 280.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2319,16 +2302,32 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[42 <./figures/Fig 5.jpg>]
+[42]
+
+chapters/chapter3.tex:303: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303     \item \textbf
+                       {Precision:}  Precision measures the ability of the s...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 303
+[][]
+ []
+
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 290.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 304.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 290.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 304.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 55.89021pt, for example:
@@ -2338,46 +2337,46 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [43]
 
-chapters/chapter3.tex:300: LaTeX Error: Lonely \item--perhaps a missing list environment.
+chapters/chapter3.tex:315: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.300     \item \textbf
-                       {Precision:}  Precision measures the ability of the s...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 300
-[][]
- []
-
-
-chapters/chapter3.tex:312: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.312     \item \textbf
+l.315     \item \textbf
                        {Recall:}  Recall evaluates the ability of the system...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 312
+Underfull \hbox (badness 10000) detected at line 315
+[][]
+ []
+
+
+chapters/chapter3.tex:327: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327     \item \textbf
+                       {F1-Score:}  The F1-Score is the harmonic mean of pre...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 327
 [][]
  []
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 319.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 331.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 319.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 331.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2388,30 +2387,13 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [44]
 
-chapters/chapter3.tex:324: LaTeX Error: Lonely \item--perhaps a missing list environment.
+chapters/chapter3.tex:332: LaTeX Error: \begin{refsection} on input line 3 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.324     \item \textbf
-                       {F1-Score:}  The F1-Score is the harmonic mean of pre...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 324
-[][]
- []
-
-
-chapters/chapter3.tex:329: LaTeX Error: \begin{refsection} on input line 3 ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.329 \end{itemize}
+l.332 \end{itemize}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2419,11 +2401,11 @@ or  <return>  to continue without it.
 
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 354.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 378.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 354.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 378.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2434,62 +2416,57 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [45]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 379.
+LaTeX Font Warning: Command \large invalid in math mode on input line 380.
 
-LaTeX Font Info:    Calculating math sizes for size <> on input line 381.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 382.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 381.
+(Font)              size <5> substituted on input line 382.
 
-
-Overfull \hbox (1.23097pt too wide) in paragraph at lines 387--388
-\OT1/ptm/m/n/12 Law En-force-ment The-ory, Surveil-lance The-ory, and Real-Time Em-bed-ded Sys-
- []
-
-<figures/Fig 6.jpg, id=520, 2055.68pt x 1158.3275pt>
+<figures/Fig 6.jpg, id=521, 2055.68pt x 1158.3275pt>
 File: figures/Fig 6.jpg Graphic file (type jpg)
 <use figures/Fig 6.jpg>
-Package pdftex.def Info: figures/Fig 6.jpg  used on input line 392.
+Package pdftex.def Info: figures/Fig 6.jpg  used on input line 393.
 (pdftex.def)             Requested size: 390.25536pt x 219.89009pt.
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 396.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 398.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 396.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 398.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -2498,14 +2475,14 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[46]
+[46 <./figures/Fig 6.jpg>]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 404.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 411.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 404.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 411.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2515,14 +2492,14 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[47 <./figures/Fig 6.jpg>]
+[47]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 421.
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 419.
 (pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
 File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
 <use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 421.
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 419.
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 
@@ -2533,19 +2510,19 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
 [48]
-Overfull \hbox (4.18996pt too wide) in paragraph at lines 424--424
-[]\OT1/ptm/m/n/10 Juan Ter-ven, Diana-Margarita C[]ordova-Esparza, and Julio-Alejandro Romero-Gonz[]alez.
+Overfull \hbox (1.41757pt too wide) in paragraph at lines 422--422
+[]\OT1/ptm/m/n/10 Juan Ter-ven, Diana-Margarita C[]ordova-Esparza, and Julio-Alejandro Romero-Gonz[]alez. 2023. A com-
  []
 
-Package biblatex Info: Reference section=0 on input line 425.
+Package biblatex Info: Reference section=0 on input line 423.
 
-chapters/chapter3.tex:425: LaTeX Error: \begin{itemize} on input line 359 ended by \end{refsection}.
+chapters/chapter3.tex:423: LaTeX Error: \begin{thesisbody} on input line 41 ended by \end{refsection}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.425 \end{refsection}
+l.423 \end{refsection}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2563,10 +2540,10 @@ Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (C
 
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
 
 [49
 
@@ -2614,6 +2591,23 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [50
 
 ]
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 19.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 19.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
+
+[51]
 
 LaTeX Warning: Empty bibliography on input line 21.
 
@@ -2654,10 +2648,27 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[51
+[52
 
 
 ]
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 17.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 17.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
+
+[53]
 
 LaTeX Warning: Empty bibliography on input line 19.
 
@@ -2696,7 +2707,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[52
+[54
 
 
 
@@ -2713,16 +2724,6 @@ l.47     \makeBibliography
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-Overfull \hbox (2.38248pt too wide) in paragraph at lines 47--47
-[]\OT1/ptm/m/n/10 Juan Ter-ven, Diana-Margarita C[]ordova-Esparza, and Julio-Alejandro Romero-Gonz[]alez. 2022. A com-
- []
-
-
-Overfull \hbox (2.38248pt too wide) in paragraph at lines 47--47
-[]\OT1/ptm/m/n/10 Juan Ter-ven, Diana-Margarita C[]ordova-Esparza, and Julio-Alejandro Romero-Gonz[]alez. 2023. A com-
- []
 
 
 Package biblatex Warning: Type 'proceedings' not found on input line 47.
@@ -2770,12 +2771,12 @@ Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (C
 (pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
 
-[53]
+[55]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 47.
@@ -2787,12 +2788,12 @@ Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (C
 
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
 
-[54]
+[56]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 47.
@@ -2804,12 +2805,12 @@ Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (C
 
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
 
-[55] (chapters/appendix.tex
+[57] (chapters/appendix.tex
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 4.
@@ -2826,7 +2827,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[56]
+[58]
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 6.
@@ -2838,12 +2839,12 @@ Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (C
 
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
 
-[57
+[59
 
 
 ]
@@ -2863,7 +2864,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[58
+[60
 
 ]
 Appendix B.
@@ -2882,7 +2883,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[59
+[61
 
 ]
 Appendix C.
@@ -2901,7 +2902,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
 
-[60
+[62
 
 ]) (vita.tex
 
@@ -2934,6 +2935,25 @@ l.19 ...h=0.35\textwidth]{figures/person-icon.png}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
+<use settings/CSPC-WEBSITEV2_3.png>
+Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
+File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
+<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
+Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 23.
+(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 55.89021pt, for example:
+(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+
+[63
+
+
+]
 
 LaTeX Warning: File `figures/person-icon.png' not found on input line 28.
 
@@ -2949,25 +2969,7 @@ l.28 ...h=0.35\textwidth]{figures/person-icon.png}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
-<use settings/CSPC-WEBSITEV2_3.png>
-Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 32.
-(pdftex.def)             Requested size: 128.0374pt x 34.96317pt.
-File: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png Graphic file (type png)
-<use settings/Proposed Logo - College of Computer Studies (CSPC)-07.png>
-Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (CSPC)-07.png  used on input line 32.
-(pdftex.def)             Requested size: 128.0374pt x 37.04018pt.
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
-
-[61
-
-
-])
+)
 File: settings/CSPC-WEBSITEV2_3.png Graphic file (type png)
 <use settings/CSPC-WEBSITEV2_3.png>
 Package pdftex.def Info: settings/CSPC-WEBSITEV2_3.png  used on input line 50.
@@ -2979,14 +2981,14 @@ Package pdftex.def Info: settings/Proposed Logo - College of Computer Studies (C
 
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 55.89021pt, for example:
-(fancyhdr)                \setlength{\headheight}{55.89021pt}.
+(fancyhdr)                Make it at least 41.39021pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.39021pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-25.89021pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.39021pt}.
 
-[62]
+[64]
 
-c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{itemize} on input line 337 ended by \end{thesisbody}.
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: LaTeX Error: \begin{document} ended by \end{thesisbody}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2998,6 +3000,13 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:50: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.50 \end{thesisbody}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -3008,19 +3017,6 @@ Package lastpage Warning: Rerun to get the references right on input line 52.
 
 
 AED: lastpage setting LastPage
-
-c:/Users/admin/Downloads/CCS Thesis Template-v2 (Helmet)/CCS Thesis Template-v2/thesis.tex:52: LaTeX Error: \begin{thesisbody} on input line 41 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 (thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -3045,23 +3041,19 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 41 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 33834 strings out of 474486
- 708139 string characters out of 5743756
- 1989542 words of memory out of 5000000
- 55426 multiletter control sequences out of 15000+600000
- 590306 words of font info for 99 fonts, out of 8000000 for 9000
+ 33827 strings out of 474486
+ 708060 string characters out of 5743756
+ 1988542 words of memory out of 5000000
+ 55417 multiletter control sequences out of 15000+600000
+ 589763 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,16n,104p,2641b,2617s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (71 pages, 3101305 bytes).
+ 93i,16n,104p,2641b,2501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (73 pages, 3167537 bytes).
 PDF statistics:
- 966 PDF objects out of 1000 (max. 8388607)
- 255 named destinations out of 1000 (max. 500000)
- 304 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 979 PDF objects out of 1000 (max. 8388607)
+ 257 named destinations out of 1000 (max. 500000)
+ 309 words of extra memory for PDF output out of 10000 (max. 10000000)
 

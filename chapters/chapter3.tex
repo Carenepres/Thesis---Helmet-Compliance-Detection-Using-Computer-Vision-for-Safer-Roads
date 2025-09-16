@@ -117,6 +117,7 @@ In our study, the use of NMS was particularly important in refining predictions 
 
 This section provides detailed information on the materials, statistical tools, and evaluation methods employed in the development and assessment of the Helmet Compliance Detection Using Computer Vision for Safer Roads. It includes the hardware and software components, the process followed to implement the prototype, the sampling technique, the statistical tests used for performance evaluation, and the methods employed for evaluating the prototype's effectiveness.
 
+The section covers the hardware, software, and tools used in developing the prototype, along with the workflow for implementation, data sampling methods, and evaluation. It highlights the use of statistical techniques such as accuracy, confusion matrices, and error rate analysis, and explains how effectiveness was assessed through detection accuracy, response time, and reliability under real-world conditions.
 
 \section*{Test Case}
 
@@ -127,30 +128,31 @@ The test cases briefly assess the Helmet Compliance Detection prototype’s perf
 These tests are designed not only to verify the accuracy of helmet and passenger detection but also to evaluate the system’s robustness and responsiveness under diverse traffic situations. By highlighting both strengths and potential areas for improvement, the test cases provide valuable insights for refining the prototype and ensuring reliable performance in practical deployment.
 
 
-\begin{table}[H]
+\begin{table}[ht]
     \centering
-    \caption{\textbf{Motorcycle Helmet Compliance Test Cases}}
-    \label{tbl:helmetCompliance}
-    \renewcommand{\arraystretch}{1} % Adjust row height
-    \fontsize{11}{12}\selectfont % Readable font
-    \begin{tabular}{p{1.5cm} p{5cm} p{4.5cm} p{4.5cm}}
-    \hline
-        \textbf{Test Case} & \textbf{Scenario Description} & \textbf{Expected Output} & \textbf{Actual Output} \\ \hline
-        TC01 & 1 person riding motorcycle, wearing proper helmet & Person with proper helmet detected & Person with proper helmet detected \\
-        TC02 & 1 person riding motorcycle, no helmet & Person with no helmet detected & Person with no helmet detected \\
-        TC03 & 1 person riding motorcycle, helmet worn improperly & Person with wrong helmet use detected & Person with wrong helmet use detected \\
-        TC04 & 1 person riding motorcycle, wearing bicycle helmet & Person with wrong helmet use detected & Person with wrong helmet use detected \\
-        TC05 & 2 persons riding motorcycle, both with proper helmets & 2 persons with proper helmets detected & 2 persons with proper helmets detected \\
-        TC06 & 2 persons riding motorcycle, only one with helmet & 1 proper helmet + 1 no helmet detected & 1 proper helmet + 1 no helmet detected \\
-        TC07 & 2 persons riding motorcycle, both without helmets & 2 persons with no helmet detected & 2 no helmet detected \\
-        TC08 & 1 person riding motorcycle, helmet worn backward & Person with wrong helmet use detected & Person with wrong helmet use detected \\
-        TC09 & 3 persons riding motorcycle, all with proper helmets & Overloading violation (more than 2 riders) & 3 persons with proper helmets detected → Violation flagged \\
-        TC10 & 3 persons riding motorcycle, only 1 with helmet & Overloading + helmet violations & 1 proper helmet + 2 no helmets detected \\
-        TC11 & 3 persons riding motorcycle, 1 proper helmet, 1 wrong helmet, 1 no helmet & Overloading + mixed helmet violations & 3 persons detected with mixed violations \\
-        TC12 & 1 person riding motorcycle, helmet is not worn (e.g., held in hand or hanging on the handlebar) & Person with wrong helmet use or no helmet detected & Person with no helmet detected \\
-        TC13 & 2 adults and 1 child riding, only adults with helmets & Overloading + partial helmet usage & 2 proper helmets + 1 no helmet detected \\ \hline
-    \end{tabular}
+    \caption{Helmet Detection Prototype Test Cases}
+    \label{tbl:testCases}
+    \resizebox{\textwidth}{!}{%
+        \begin{tabular}{p{1.2cm} p{5cm} p{4.5cm} p{4.5cm}}
+            \hline
+            \textbf{Test Case} & \textbf{Scenario Description} & \textbf{Expected Output} & \textbf{Actual Output} \\ \hline \hline
+            TC01 & 1 rider with proper helmet & Person with proper helmet & Person with proper helmet detected \\
+            TC02 & 1 rider without helmet & Person with no helmet & Person with no helmet detected \\
+            TC03 & 1 rider with helmet worn incorrectly & Person with wrong helmet use & Person with wrong helmet use detected \\
+            TC04 & 1 rider with bicycle helmet & Person with wrong helmet use & Person with wrong helmet use detected \\
+            TC05 & 2 riders, both with proper helmets & 2 persons with proper helmets & 2 persons with proper helmets detected \\
+            TC06 & 2 riders, only one with helmet & 1 proper helmet + 1 no helmet & 1 proper helmet + 1 no helmet detected \\
+            TC07 & 2 riders, no helmets & 2 persons with no helmet & 2 no helmet detected \\
+            TC08 & 1 rider with helmet worn backward & Person with wrong helmet use & Person with wrong helmet use detected \\
+            TC09 & 3 riders, all with proper helmets & Overloading violation (more than 2 riders) & 3 persons with proper helmets → Violation flagged \\
+            TC10 & 3 riders, only one with helmet & Overloading + helmet violations & 1 proper helmet + 2 no helmets detected \\
+            TC11 & 3 riders, mixed: 1 proper, 1 wrong, 1 none & Overloading + mixed helmet violations & 3 persons with mixed violations \\
+            TC12 & 1 rider not wearing helmet (carrying it instead) & Person with wrong helmet use or no helmet & Person with no helmet detected \\
+            TC13 & 2 adults + 1 child, only adults with helmets & Overloading + partial helmet usage & 2 proper helmets + 1 no helmet detected \\ \hline
+        \end{tabular}%
+    }
 \end{table}
+
 
 \noindent
 
@@ -161,58 +163,59 @@ Also, TC07 confirms detection when both riders have no helmets, expecting the sy
 
 \section*{Instrument}
 
-
-    The research tool used by the researchers to carry out the study was described in this section.
-
+The research tool used by the researchers to carry out the study was described in this section, including its design, purpose, and role in collecting and analyzing data for the evaluation of the Helmet Compliance Detection prototype. It also explains how the tool was applied during testing, the parameters it measured, and the way it supported the assessment of the system’s accuracy, reliability, and effectiveness in real-world conditions.
 
 \subsection*{Dataset}
 
+The dataset used in this study was custom-created and annotated by the researchers. It contains five classes: motorcycle, not motorcycle (for vehicle filtering), person with no helmet, person with proper helmet, and person with wrong helmet use. The dataset was specifically collected to support helmet compliance monitoring and accurate motorcycle detection using YOLOv8. Passenger counting was excluded, as this feature is handled directly in the system’s code by detecting the number of riders per motorcycle and flagging violations if more than two are present. Images were gathered from diverse real-world scenarios to ensure that the trained model can reliably differentiate between helmet compliance cases, while also maintaining accurate motorcycle and non-motorcycle classification.
 
-The dataset used in this study is a custom dataset created and annotated by the researchers. It contains annotated images for four classes: motorcycle, person with no helmet, person with proper helmet, and person with wrong helmet use. This dataset was specifically collected to align with the goals of the prototype, particularly in monitoring helmet compliance and identifying motorcycles using YOLOv8. Passenger counting, on the other hand, is not included in the dataset since this feature is implemented directly in the system’s code by checking the number of detected persons per motorcycle and flagging a violation if more than two riders are present. To enhance the dataset, images were carefully collected to capture various real-world scenarios, particularly different cases of helmet compliance and violation. This ensures that the trained model can reliably distinguish between proper helmet use, no helmet use, and wrong helmet use, while also maintaining accurate motorcycle detection.
-
-% Row 1
 \begin{figure}[H]
     \centering
-    \begin{subfigure}{0.45\textwidth}
+
+    % Row 1
+    \begin{subfigure}{0.30\textwidth}
         \centering
-        \includegraphics[width=\linewidth]{figures/Fig 4a.jpg}
-        \caption{motorcycle}
+        \includegraphics[width=0.9\linewidth]{figures/Fig 4a.jpg}
+        \caption{Motorcycle}
         \label{fig:4a}
-    \end{subfigure}
+    \end{subfigure}%
     \hfill
-    \begin{subfigure}{0.45\textwidth}
+    \begin{subfigure}{0.30\textwidth}
         \centering
-        \includegraphics[width=\linewidth]{figures/Fig 4b.jpg}
-        \caption{person with no helmet}
+        \includegraphics[width=0.9\linewidth]{figures/Fig 4b.jpg}
+        \caption{Person with no helmet}
         \label{fig:4b}
     \end{subfigure}
-    \label{fig:dataset_row1}
-\end{figure}
 
-% Row 2
-\begin{figure}[H]
-    \centering
-    \begin{subfigure}{0.45\textwidth}
+    % Row 2
+    \begin{subfigure}{0.30\textwidth}
         \centering
-        \includegraphics[width=\linewidth]{figures/Fig 4c.jpg}
-        \caption{person with wrong helmet use}
+        \includegraphics[width=0.9\linewidth]{figures/Fig 4c.jpg}
+        \caption{Person with wrong helmet use}
         \label{fig:4c}
-    \end{subfigure}
+    \end{subfigure}%
     \hfill
-    \begin{subfigure}{0.45\textwidth}
+    \begin{subfigure}{0.30\textwidth}
         \centering
-        \includegraphics[width=\linewidth]{figures/Fig 4d.jpg}
-        \caption{person with proper helmet}
+        \includegraphics[width=0.9\linewidth]{figures/Fig 4d.jpg}
+        \caption{Person with proper helmet}
         \label{fig:4d}
     \end{subfigure}
-    \caption{\textbf{Samples of Dataset}}
-    \label{fig:dataset_row2}
+        \hfill
+    \begin{subfigure}{0.30\textwidth}
+        \centering
+        \includegraphics[width=0.9\linewidth]{figures/Fig 4e.jpg}
+        \caption{Not Motorcycle}
+        \label{fig:4e}
+    \end{subfigure}
+
+    \caption{Samples of Dataset: Motorcycle, person with no helmet, person with wrong helmet use, person with proper helmet and not motorcycle.}
+    \label{fig:dataset_samples}
 \end{figure}
 
-\noindent
 
 The image above illustrates the Helmet Compliance Detection Using Computer Vision prototype trained on a unified dataset with four main classes: (a) Motorcycle, which enables the system to correctly identify and recognize motorcycles on the road; (b) Person with No Helmet, which allows the system to detect riders who are not wearing helmets (c) Person with Wrong Helmet Use, which identifies riders wearing helmets incorrectly, and (d) Person with Proper Helmet, which confirms compliance with safety regulations. These four classes help the prototype detect motorcycles, identify helmet compliance, and overloading.
-Additionally, a separate Vehicle Filtering Dataset is used, which contains a single class labeled as “not motorcycle.” This dataset enables the prototype to filter out non-motorcycle vehicles before proceeding to helmet and passenger compliance detection, thereby ensuring more accurate and reliable results.
+Additionally, a separate Vehicle Filtering Dataset is used, which contains a single class labeled as (e) not motorcycle. This dataset enables the prototype to filter out non-motorcycle vehicles before proceeding to helmet and passenger compliance detection, thereby ensuring more accurate and reliable results.
 
 
 
@@ -243,14 +246,15 @@ If any person on the motorcycle (rider or passenger) is detected without a helme
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{figures/Fig 5.jpg}
+    \includegraphics[width=0.7\textwidth]{figures/Fig 5.jpg}
     \caption{\textbf{Prototype of Flowchart}}
     \label{figures/Fig 5.jpg}
 \end{figure}
 
-\noindent
 The diagram presents a real-time helmet detection system workflow. It starts with video data collection and preprocessing to prepare frames for analysis. A YOLOv8 model is trained to detect helmets on motorcycle riders and passengers. 
 During real-time operation, the system filters vehicles to focus on motorcycles, then checks for helmet compliance. If a violation is found, an alert is triggered and displayed and saves a video clip of the violation. The system continuously monitors and loops back to analyze the next vehicle, ensuring ongoing detection and enforcement of helmet laws.
+
+\noindent
 
 \section*{Normalized Value}
 The normalized value is used to standardize the raw user feedback scores, transforming them into a range between 0 and 1. The formula for normalization is:
@@ -268,15 +272,14 @@ The normalized value is used to standardize the raw user feedback scores, transf
     \item $\max(X)$ is the maximum possible value (typically 1.0).
 \end{itemize}
 
-
-After applying this formula, the normalized values are mapped to the ranges in Table 3, allowing the responses to be categorized according to satisfaction levels. This normalization ensures that the feedback is consistent and comparable across different system components. The final categorized feedback provides a clear understanding of user satisfaction and highlights areas where the prototype may need improvement or refinement.
-
+\noindent
+After applying this formula, the normalized values are mapped to the ranges in Table 3, allowing the responses to be categorized according to satisfaction levels. This normalization ensures that the feedback is consistent and comparable across different system components. Furthermore, the final categorized feedback provides a clear understanding of user satisfaction and highlights areas where the prototype may need improvement or refinement, thereby serving as a valuable guide for system evaluation and future enhancements.
 
 \section*{Evaluation Method}
 To evaluate the performance of the proposed Helmet Compliance Detection Using Computer Vision for Safer Roads, several standard evaluation metrics were utilized. These metrics assess the system’s accuracy in detecting helmet usage, counting passengers, and identifying violations in real time. The evaluation was based on comparing the model’s predictions against manually annotated ground truth data using test video segments.
 
 
-\section*{Accuracy}
+\subsection*{Accuracy}
 
 Accuracy measures the overall effectiveness of the prototype by calculating the percentage of correctly identified objects (motorcycles, helmets and overloading violations) as well as correctly filtered non-motorcycle vehicles. It provides a general view of the system’s performance across all detection tasks.
 
@@ -329,7 +332,7 @@ Where:
 \end{itemize}
 
 
-\section*{Mean Average Precision (mAP)}
+\subsection*{Mean Average Precision (mAP)}
 
 
  Mean Average Precision (mAP) evaluates both the precision and localization accuracy of the predicted bounding boxes across all object classes (motorcycle, person with no helmet, person with proper helmet, person with wrong helmet use). It integrates the precision-recall curve for each class and averages the results to provide a comprehensive measure of detection quality. A higher mAP indicates more reliable and accurate object detection.
@@ -349,16 +352,14 @@ Where:
         \item $AP_i$ = Average Precision for the $i$-th class
     \end{itemize}
 
-
-    \item \textbf{Confusion Matrix:}  The confusion matrix is a table summarizing the counts of True Positives, False Positives, True Negatives, and False Negatives for all detection tasks, including helmets, overloading, and vehicle filtering. This allows detailed insight into which types of detections are most accurate and which areas may require improvement.
-
+\noindent
+\end{itemize}
+\subsection{Confusion Matrix:}  
+The confusion matrix is a table summarizing the counts of True Positives, False Positives, True Negatives, and False Negatives for all detection tasks, including helmets, overloading, and vehicle filtering. This allows detailed insight into which types of detections are most accurate and which areas may require improvement.
 
 The confusion matrix:
 
-
 \begin{itemize}
-    \item \textbf{Confusion Matrix:}
-
 
     \begin{table}[ht]
     \centering
@@ -381,16 +382,16 @@ The confusion matrix:
 \end{equation}
 
 
-\section*{Theoritical Framework}
-
-
+\noindent
+\end{itemize}
+\section*{Theoretical Framework}
 This section outlines the theoretical underpinnings guiding the development of the Helmet Compliance Detection Prototype using computer vision. The framework integrates four key theories: Computer Vision Theory, Automated Law Enforcement Theory, Surveillance Theory, and Real-Time Embedded Systems Theory.
 
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.9\textwidth]{figures/Fig 6.jpg}
-    \caption{\textbf{Theoritical Framework of the Helmet Compliance Detection }}
+    \caption{\textbf{Theoretical Framework of the Helmet Compliance Detection }}
     \label{figures/Fig 6.jpg}
 \end{figure}
 Figure 6 presents a simplified visual representation of the theoretical framework guiding the development of the Helmet Compliance Detection Prototype. The theoretical frame- work is supported by four foundational theories: Computer Vision Theory, Automated Law Enforcement Theory, Surveillance Theory, and Real-Time Embedded Systems The- ory. Each of these theories is directly connected to the framework, illustrating how they collectively inform and strengthen the system’s design and functionality. The layout em- phasizes the multidisciplinary nature of the project, integrating both technical and soci- ological perspectives to ensure operational efficiency, real-time performance, and social relevance.
@@ -399,18 +400,15 @@ Figure 6 presents a simplified visual representation of the theoretical framewor
 \subsection{Computer Vision Theory}
 This theory provides the foundation for interpreting and processing visual inputs (video or image data) to extract meaningful patterns. In this prototype, YOLOv8 is applied to enable real-time detection of motorcycles, riders’ helmet compliance, and overloading violations.
 
-
-
 \subsection{Automated Law Enforcement Theory}
 This theory emphasizes the role of intelligent systems in supporting or replacing human roles in enforcing regulations. In the context of traffic compliance, the integration of technologies such as OpenCV and YOLOv8 aligns with the principles of automation for more accurate, consistent, and scalable monitoring.
-
 
 \subsection{Surveillance Theory}
 Surveillance Theory explains the sociotechnical importance of systematically observing and recording behaviors to ensure safety and rule compliance. This theory justifies the deployment of camera-based monitoring systems in public spaces to detect and deter traffic violations, promoting accountability and public safety.
 
-
 \subsection{Real-Time Embedded Systems Theory}
 This theory supports the technical design of prototypes that process data and respond within strict time constraints. It underpins the implementation of real-time detection features in the system, enabling low-latency processing of live video feeds through optimized algorithms and embedded computing environments.
+
 
 
 
