@@ -2636,6 +2636,15 @@
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 6 -->
+  <bcf:bibdata section="6">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="6">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
@@ -2698,7 +2707,7 @@
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
-  <bcf:datalist section="4"
+  <bcf:datalist section="5"
                 name="anyt/global//global/global"
                 type="entry"
                 sortingtemplatename="anyt"
@@ -2707,7 +2716,7 @@
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
-  <bcf:datalist section="5"
+  <bcf:datalist section="6"
                 name="anyt/global//global/global"
                 type="entry"
                 sortingtemplatename="anyt"
