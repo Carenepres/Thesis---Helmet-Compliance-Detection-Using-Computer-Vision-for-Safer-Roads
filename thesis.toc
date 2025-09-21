@@ -38,24 +38,24 @@
 \contentsline {subsection}{Surveillance Theory}{47}{subsection*.40}%
 \contentsline {subsection}{Real-Time Embedded Systems Theory}{48}{subsection*.41}%
 \contentsline {section}{\centering Notes}{49}{subsection*.41}%
-\contentsline {chapter}{\numberline {4}Results and Discussion}{50}{chapter.4}%
-\contentsline {section}{Data Collection}{50}{section*.42}%
+\contentsline {subsection}{1.Data Collection}{50}{subsection*.42}%
 \contentsline {subsection}{Data Gathering}{50}{subsection*.43}%
-\contentsline {subsection}{Data Pre-Processing}{52}{subsection*.45}%
-\contentsline {section}{Model Training and Evaluation}{53}{section*.47}%
-\contentsline {subsubsection}{Model Evaluation}{54}{subsubsection*.49}%
-\contentsline {subsubsection}{Training Results}{54}{subsubsection*.51}%
-\contentsline {subsubsection}{Confusion Matrix}{55}{subsubsection*.53}%
-\contentsline {subsubsection}{Dataset Visualization}{56}{subsubsection*.55}%
-\contentsline {subsubsection}{Box Curve}{58}{subsubsection*.57}%
+\contentsline {subsection}{Data Pre-Processing}{51}{subsection*.45}%
+\contentsline {subsection}{Model Training and Evaluation}{53}{subsection*.47}%
+\contentsline {subsection}{Model Evaluation}{53}{subsection*.49}%
+\contentsline {subsection}{Training Results}{54}{subsection*.51}%
+\contentsline {subsection}{Confusion Matrix}{54}{subsection*.53}%
+\contentsline {subsection}{Dataset Visualization}{55}{subsection*.55}%
+\contentsline {subsection}{Box Curve}{58}{subsection*.57}%
 \contentsline {subsection}{Vehicle Filtering}{60}{subsection*.60}%
 \contentsline {subsection}{Helmet Detection}{60}{subsection*.61}%
 \contentsline {subsection}{Real Time Monitoring}{61}{subsection*.63}%
 \contentsline {subsection}{Real Time Violation Alert}{61}{subsection*.64}%
-\contentsline {chapter}{\numberline {5}Conclusion}{63}{chapter.5}%
-\contentsline {chapter}{Bibliography}{65}{section*.67}%
+\contentsline {subsection}{Summary}{63}{subsection*.66}%
+\contentsline {subsection}{Findings}{64}{subsection*.67}%
+\contentsline {chapter}{Bibliography}{65}{section*.68}%
 \global \c@tocdepth 1\relax 
-\contentsline {chapter}{Appendices}{70}{section*.69}%
+\contentsline {chapter}{Appendices}{70}{section*.70}%
 \renewcommand {\cftsecpresnum }{Appendix }
 \renewcommand {\cftsecnumwidth }{5.75em}
 \renewcommand {\cftsecaftersnum }{:}
@@ -64,4 +64,4 @@
 \contentsline {chapter}{\numberline {B}Secretary's Certification}{72}{appendix.a.B}%
 \contentsline {chapter}{\numberline {C}JOINT AFFIDAVIT OF UNDERTAKING (Plagiarism)}{73}{appendix.a.C}%
 \endgroup 
-\contentsline {chapter}{Vita}{74}{appendix*.70}%
+\contentsline {chapter}{Vita}{74}{appendix*.71}%

@@ -1,15 +1,22 @@
 
-\chapter{Conclusion}
+\begin{center}
+\textbf{\MakeUppercase{Chapter 5}}\\[1em]
+\textbf{\MakeUppercase{Conclusion}}
+\end{center}
+
+This chapter provides an overview of the research project “Helmet Compliance Detection using Computer Vision for safer roads” utilizing YOLOv8 model, including its results, conclusions, and recommendations.
 \begin{refsection}
-% text of this chapter goes here
+
+\subsection{Summary}
+The study “Helmet Compliance Detection using Computer Vision for Safer Roads” was conducted to provide a practical solution to the increasing number of motorcycle-related accidents in the Philippines. Many of these accidents are caused by riders who do not wear helmets properly and by motorcycles carrying more passengers than allowed. Although the Motorcycle Helmet Act of 2009 requires the use of standard protective helmets, enforcement has remained weak because manual monitoring is limited and prone to human error. To address this problem, the researchers developed an artificial intelligence–based prototype focused specifically on motorcycles and motorcycle riders. The prototype was designed using the YOLOv8 object detection model together with OpenCV to process video feeds and monitor riders in real time.
+
+A dataset of motorcycle riders with helmets, without helmets, and with improper helmet use was collected, annotated, and used to train the YOLOv8 model. To further improve accuracy, a vehicle filtering feature was added so that the prototype only detects motorcycles and excludes other types of vehicles. The trained model was then integrated into the prototype to identify correct and incorrect helmet usage, detect motorcycles with more than two riders, and record short video clips of violations for evidence. Initial tests conducted on sample videos showed that the prototype can reliably detect different types of violations in real time, particularly under normal lighting conditions. Some limitations were observed in low-light and unfavorable weather simulations, which reduced accuracy. Despite these challenges, the study demonstrated that computer vision and deep learning can effectively support helmet law enforcement. Overall, the prototype shows strong potential to improve road safety by focusing on motorcycle riders and may serve as a foundation for future enhancements and real-world deployment in AI-based traffic monitoring
+
+\subsection{Findings}
 
 
-\begin{figure}[ht]
-    \centering
-	\includegraphics[width=0.85\textwidth]{figures/sampleFig1.jpg} 
-	\caption[Barred spiral galaxy NGC 1300]{Barred spiral galaxy NGC 1300 photographed by Hubble telescope. While the galaxy in the photo is not our sun, it does emit light, much like our sun. Image credit: NASA.}
-	\label{fig:firstFig}
-\end{figure}
+
+
 
 
 %=======================================================%

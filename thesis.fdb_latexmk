@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber thesis"] 0 "thesis.bcf" "thesis.bbl" "thesis" 1758435193.59347 -1
+["biber thesis"] 0 "thesis.bcf" "thesis.bbl" "thesis" 1758466148.63819 -1
   "references.bib" 1758413470 22399 13da70b30f73f30347fa3228ae7622c9 ""
-  "thesis.bcf" 1758435191 126558 479bd1246aba2c2244ed00e4aee0657e "pdflatex"
+  "thesis.bcf" 1758466147 126558 479bd1246aba2c2244ed00e4aee0657e "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1758435171.89354 "c:/Users/caren/OneDrive/Desktop/Thesis---Helmet-Compliance-Detection-Using-Computer-Vision-for-Safer-Roads/thesis.tex" "thesis.pdf" "thesis" 1758435193.59497 2
+["pdflatex"] 1758466130.91814 "c:/Users/caren/OneDrive/Desktop/Thesis---Helmet-Compliance-Detection-Using-Computer-Vision-for-Safer-Roads/thesis.tex" "thesis.pdf" "thesis" 1758466148.63973 2
   "C:/Users/caren/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758416851 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/caren/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1758416864 14064 4622f4ae8982bd76a57975c1f218e5cd ""
   "C:/Users/caren/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758416522 24225046 e98726155bc7043719de81a676b58069 ""
@@ -188,13 +188,13 @@
   "acmnumeric.bbx" 1758413470 20724 1f62ef4e2520c776941c4c07fde74475 ""
   "acmnumeric.cbx" 1758413470 95 c8972fc9c13cc3031e8a6e7930e7b84a ""
   "approvalPage.tex" 1758413470 386 7ded0765e65d0a50ba40ff2b4107694e ""
-  "c:/Users/caren/OneDrive/Desktop/Thesis---Helmet-Compliance-Detection-Using-Computer-Vision-for-Safer-Roads/thesis.tex" 1758434844 2367 056e26a442f36868a77e1aad1325ac8f ""
+  "c:/Users/caren/OneDrive/Desktop/Thesis---Helmet-Compliance-Detection-Using-Computer-Vision-for-Safer-Roads/thesis.tex" 1758464986 2367 056e26a442f36868a77e1aad1325ac8f ""
   "chapters/appendix.tex" 1758413470 2261 cabaa239d854a1a1c8e265424db5d848 ""
-  "chapters/chapter1.tex" 1758413470 20891 c20cd0659673c40e9d29d4fe85c906f6 ""
+  "chapters/chapter1.tex" 1758462524 20891 c20cd0659673c40e9d29d4fe85c906f6 ""
   "chapters/chapter2.tex" 1758413470 26843 8c3796de051433f219cbb60aab993a07 ""
-  "chapters/chapter3.tex" 1758434845 32282 c695de70dce3a4255d918c9e0c649aaa ""
-  "chapters/chapter4.tex" 1758435142 15071 a41e0b6f2032ce7077f0e78face84e9a ""
-  "chapters/chapter5.tex" 1758413470 650 b2f39b22921d37ad7215831eedc30fca ""
+  "chapters/chapter3.tex" 1758462819 32310 040a7fa21f05cf79fbd0b180184ce6fd ""
+  "chapters/chapter4.tex" 1758465880 15146 be943050ede44c72c7c34e877d495b31 ""
+  "chapters/chapter5.tex" 1758466128 2594 4d8982b8bc29ddfc29bc95bff55e1757 ""
   "cspcccsthesis.cls" 1758413470 20520 c750b4cbc6a013cabb4014cc4d7c99c1 ""
   "figures/Fig 1.png" 1758413470 197481 926727df9b646c10533706cae74277d9 ""
   "figures/Fig 10.png" 1758418957 1958557 28475c32814181fedd2453fe3cf2f7a3 ""
@@ -229,16 +229,15 @@
   "figures/Fig18c.jpg" 1758417236 121199 4d878162a33768b4868a1aa9ab6a049a ""
   "figures/Fig18d.jpg" 1758417233 128145 d58504aae9e7f8570c6c981e8bca91e9 ""
   "figures/person-icon.png" 0 -1 0 ""
-  "figures/sampleFig1.jpg" 0 -1 0 ""
   "settings/CSPC-WEBSITEV2_3.png" 1758413470 36016 f888e49a203656e466f4be3801ea5b3e ""
   "settings/Proposed Logo - College of Computer Studies (CSPC)-07.png" 1758413470 440502 062d223fcefdb9caa9ef83f031610fc4 ""
   "settings/glossary.tex" 1758413470 146 dc1afe24c2aa42f688983671da7dce83 ""
-  "thesis.aux" 1758435191 46370 2b971449042f6807e72790ddaac7b24d "pdflatex"
+  "thesis.aux" 1758466147 44708 091c3fc2d7b5bf12672d1019ae0e42e1 "pdflatex"
   "thesis.bbl" 1758416880 191417 eddc0dc62a417ba3253ff784e999e897 "biber thesis"
-  "thesis.lof" 1758435191 2195 bdc0561ef10c22f899dcaed7a6912890 "pdflatex"
-  "thesis.lot" 1758435191 384 f66e58726bd869ab63a9f2eded12238a "pdflatex"
-  "thesis.tex" 1758434844 2367 056e26a442f36868a77e1aad1325ac8f ""
-  "thesis.toc" 1758435191 4463 8ec9bdea530b9257628c820ea2d8c22d "pdflatex"
+  "thesis.lof" 1758466147 2045 6030bcc1b8807a3c17b82e5ed9014605 "pdflatex"
+  "thesis.lot" 1758466147 344 3f196da8f8b02885449060d596d4e3e2 "pdflatex"
+  "thesis.tex" 1758464986 2367 056e26a442f36868a77e1aad1325ac8f ""
+  "thesis.toc" 1758466147 4416 4d892d9c51b3ac65c0cea16b99ebf51c "pdflatex"
   "vita.tex" 1758413470 1539 462c983f80517d35d373a2f42a8b18c6 ""
   (generated)
   "thesis.acn"
