@@ -1,6 +1,5 @@
 
 \chapter{Results and Discussion}
-\begin{refsection}
 
 The data gathered during the study are presented and evaluated in this chapter. A discussion and thorough analysis of helmet compliance, wrong helmet use, and motorcycle overloading are also included in this chapter.
 \begin{refsection}
@@ -119,6 +118,88 @@ The dataset visualization highlights the distribution and positioning of the ann
 
 \noindent
 The performance evaluation graphs provide insights into how well the model detects motorcycles and helmet usage. In the F1-Confidence Curve (Graph A), the model achieves its best balance between precision and recall at a confidence threshold of around 0.41, with an overall F1 score of 0.80. The classes motorcycle and not motorcycle consistently achieve higher F1 scores compared to the helmet-related classes. The Precision-Confidence Curve (Graph B) shows that precision improves as the confidence threshold increases, with motorcycle and not motorcycle approaching near-perfect precision at high thresholds, while helmet-related classes such as proper helmet use and no helmet show lower precision values. The Precision-Recall Curve (Graph C) highlights that the model performs very well in detecting motorcycles (0.976) and non-motorcycles (0.968), but has lower average precision scores for helmet-related categories, with no helmet at 0.712, proper helmet use at 0.654, and wrong helmet use at 0.740, resulting in an overall mean Average Precision (mAP@0.5) of 0.810. Lastly, the Recall-Confidence Curve (Graph D) indicates that recall is highest at lower confidence thresholds, with an overall recall of 0.89, but gradually decreases as confidence increases, showing that while the model can detect most objects at low thresholds, higher thresholds ensure more reliable but fewer detections.
+
+\begin{figure}[H]
+\centering
+
+% First row
+\begin{minipage}{0.3\textwidth}
+\centering
+\textbf{Motorcycle} \\
+\includegraphics[width=\linewidth]{figures/Fig 19a.jpg}
+\end{minipage}\hfill
+\begin{minipage}{0.3\textwidth}
+\centering
+\textbf{Not motorcycle} \\
+\includegraphics[width=\linewidth]{figures/Fig 19b.jpg}
+\end{minipage}\hfill
+\begin{minipage}{0.3\textwidth}
+\centering
+\textbf{Person with no helmet} \\
+\includegraphics[width=\linewidth]{figures/Fig 19c.jpg}
+\end{minipage}
+
+\vspace{0.5cm}
+
+% Second row
+\begin{minipage}{0.45\textwidth}
+\centering
+\textbf{Person with proper helmet} \\
+\includegraphics[width=\linewidth]{figures/Fig 19d.jpg}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+\centering
+\textbf{Person with wrong helmet use} \\
+\includegraphics[width=\linewidth]{figures/Fig 19e.jpg}
+\end{minipage}
+
+\caption{Detection Results}
+\label{fig:dataset_examples}
+\end{figure}
+
+\noindent
+The results present sample outputs of the model using images from the validation set as well as real-time video captured through a webcam. Each output shows detected objects along with their predicted classes, including motorcycles, not motorcycles, persons with no helmet, persons with proper helmets, and persons with wrong helmet use. These outputs demonstrate how the model identifies helmet compliance in different scenarios, providing clear visual evidence of its performance. The prototype is integrated into a web-based interface, which allows users to view live detection results directly from the webcam feed. Frames are processed instantly by the model, enabling real-time monitoring of helmet usage and motorcycle presence. This setup highlights the model’s accuracy, detection capability, and practical applicability for continuous, real-time helmet compliance monitoring in various conditions.
+
+\subsection{Vehicle Filtering}
+
+Before detecting helmets, the prototype first identifies motorcycles in the camera feed. This is important because helmet detection only applies to motorcycles, not to bicycles, tricycles, e-bikes or other vehicles. The YOLOv8 model detects different types of vehicles, and only the motorcycles are selected for helmet detection. By filtering out non-motorcycle vehicles, the prototype reduces errors and ensures that helmet detection is faster and more accurate. This also allows the prototype to focus on relevant vehicles, which is important for real-time performance. 
+
+\subsection{Helmet Detection}
+
+\begin{figure}[ht]
+    \centering
+	\includegraphics[width=0.85\textwidth]{figures/Fig 20.jpg}
+	\caption[Helmet Detection]{Helmet Detection}
+	\label{fig:helmet_detection}
+\end{figure}
+
+\noindent
+After motorcycles are filtered from the camera feed, the prototype detects the helmet status of each rider. The YOLOv8 model was trained to classify riders into three categories: person with no helmet, person with proper helmet, and person with wrong helmet use.
+
+
+By focusing only on motorcycles, the prototype reduces false detections and ensures accurate helmet compliance monitoring. The model processes the video feed in real-time, highlighting each rider and indicating their helmet status. Violations, such as riders without helmets or wearing them incorrectly, can be logged or trigger alerts, enabling timely monitoring and reporting of non-compliance.
+
+\subsection{Real Time Monitoring}
+
+The prototype performs helmet detection on motorcycles in real-time by processing live camera feeds. After vehicle filtering, each rider is classified as person with proper helmet, person with wrong helmet use, or person with no helmet. Violations are immediately highlighted, logged, or trigger alerts, enabling timely and accurate monitoring. This real-time processing ensures the prototype can be effectively deployed for on-road helmet compliance enforcement.
+
+\subsection{Real Time Violation Alert}
+
+\begin{figure}[ht]
+    \centering
+	\includegraphics[width=0.85\textwidth]{figures/Fig 21.jpg}
+	\caption[Real Time Violation Alert]{Real Time Violation Alert}
+	\label{fig:real_time_violation_alert}
+\end{figure}
+
+\noindent
+The prototype provides immediate alerts whenever a helmet violation is detected. When a rider is identified as not wearing a helmet or wearing it incorrectly, a red warning alert appears on the monitor displaying “Violation Detected.” At the same time, the prototype  automatically saves a video clip of the violation for documentation and reporting purposes. This feature ensures timely detection, accurate recording of violations, and supports effective enforcement of helmet compliance.
+
+
+
+
+
+
 
 %=======================================================%
 %%%%% Do not delete this part %%%%%%
